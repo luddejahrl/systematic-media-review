@@ -1,0 +1,3 @@
+2 available
+
+Please enter a quantity of $qty_dummy$ or less Please enter a quantity of 1 Purchases are limited to $qty_dummy$ per buyer Please enter quantity of 1 or more Please enter a lower number Choose quantity that is less than $qty_dummy1$ or equal to $qty_dummy$ You can only choose quantity that is equal to $qty_dummy$

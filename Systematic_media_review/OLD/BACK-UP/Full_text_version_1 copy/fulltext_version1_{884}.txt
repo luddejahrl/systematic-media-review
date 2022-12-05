@@ -1,0 +1,224 @@
+Share this: Twitter
+
+Facebook
+
+WhatsApp
+
+LinkedIn
+
+Email
+
+Telegram
+
+
+
+Illustration by Walid Haddad
+
+How zero-click surveillance threatens reporters, sources, and global press freedom
+
+By Fred Guterl
+
+Published October 13, 2022
+
+
+
+Aida Alami has always been wary of surveillance. As a journalist from Morocco, a state with a track record of intercepting phone calls and messages of political rivals, activists, and journalists, she habitually took precautions to protect her sources. She avoided using certain keywords and full names in her communications and conducted interviews over Signal, a messaging app that encrypts all content before it leaves a phone. “For some time, we felt really safe on Signal,” she told the Committee to Protect Journalists in an interview.
+
+That feeling of safety from using end-to-end encryption evaporated in 2019, when WhatsApp-owner Facebook revealed a vulnerability that allowed hackers to infiltrate smartphones simply by calling someone via the messaging app, without the target having to click on a link. Moroccan authorities had allegedly exploited this now-patched flaw to gain secret access to the phones of journalists and activists, including Aboubakr Jamai, CPJ’s International Press Freedom Award winner in 2003.
+
+Like Signal, WhatsApp uses end-to-end encryption to scramble all calls, messages, audio, photo, and video both in transmission as well as on the company’s server – an important security feature that prevents governments from intercepting or subpoenaing communications. However, the Facebook disclosure showed that surveillance software could be inserted onto any phone via any app.
+
+That was when Alami realized that just about every precaution she had been taking was now obsolete. “That was really scary,” she said.
+
+Since then, Alami has continued to write and report for The New York Times and other publications. But working under the constant threat of surveillance has made her job that much harder. “I know for a fact that a lot of people are scared to talk to me,” she said. “A lot of people are scared of writing me, they’re scared that my phone is watched. What happens is that you’re just paranoid all the time. You assume that your conversations are being read by someone else.”
+
+There’s nothing new about governments or criminal gangs spying on journalists or activists they fear might expose or discredit them. But the development of high-tech “zero-click” spyware – the kind that takes over a phone without a user’s knowledge or interaction – poses an existential crisis for journalism and the future of press freedom around the world.
+
+
+
+In interviews with reporters, tech experts, and press freedom advocates in multiple countries, the Committee to Protect Journalists (CPJ) has found that the fear of surveillance extends far beyond those able to prove infiltration of their phones. These attacks – or the mere possibility of them – have already had a chilling effect on sources, who fear their conversations with reporters could expose them to retribution from authorities. Many journalists told CPJ that they are concerned not just for their own personal safety, but for friends and family who may be targeted along with them. Newsroom leaders tell of taking extra security precautions when discussing coverage plans. The awareness that any journalist could be tapped without their knowledge has created profound feelings of powerlessness that could prompt many to leave the profession – or not enter it to begin with. “Violence against journalists is rising,” John Scott-Railton, senior researcher at the University of Toronto’s Citizen Lab, told CPJ. “So are digital threats. The damage by tools like Pegasus is contributing to the rise in violence.”
+
+Pegasus, a product of the Israeli firm NSO Group, is probably the best-known mobile surveillance program. Like other spyware, it works by insinuating itself into smartphones, but gives the infiltrator particularly free run of the device – access to its microphone and camera, any files or photos stored on the phone, any network connections, contact information, message and browsing histories, passwords, email accounts, recordings and so forth. The purchaser can listen to conversations – even ones that take place over encrypted messaging apps like Signal – all without owners knowing that their phones have been turned into instruments of surveillance.
+
+Perhaps one of the most alarming aspects of the new generation of spyware is that the old methods of defense don’t work. Infection can be a zero-click operation; targets needn’t open a link or download an attachment. All it takes to pierce the phone’s defenses is an unanswered call or an invisible text message. Measures like encryption are only a good protection against a spy who intercepts messages such as texts or emails or voice calls after they’ve left the phone. When spyware takes possession of a phone, it can eavesdrop on a call before encryption takes place, much like reading a letter over a writer’s shoulder before it is sealed in an envelope.
+
+In July 2021, the Pegasus Project found phone numbers of more than 180 journalists on a list of what appear to be potential targets of Pegasus spyware that could turn their mobile phones into listening devices. The NSO Group denies any connection with the Project’s list and says that it only sells its product to vetted governments with the goal of preventing crime or terrorism.
+
+Pegasus, however, is just one part of a private surveillance industry now bringing the tools of high-tech spycraft to any nation – or, in theory, any organization or individual – that has the millions needed to pay for the service, experts say. “It’s no longer the super states and the super cyber powers, but just about anybody who wants to find out who reporters are talking to, who their sources are, where they’re getting their information from,” Michael Christie, general manager of global logistics and security at global news agency Reuters, told CPJ.
+
+“Of course, I have much more difficulty meeting and communicating with sources, who are increasingly afraid of the trouble I might bring into their life,” Szabolcs Panyi, the investigative reporter “Of course, I have much more difficulty meeting and communicating with sources, who are increasingly afraid of the trouble I might bring into their life,” Szabolcs Panyi, the investigative reporter who, along with Direkt36 editor András Pethő, broke the news that Hungary’s government had bought Pegasus spyware and was himself a target of the surveillance, said in an interview with CPJ. “Among Hungarian journalists, the biggest fear now is that this [Pegasus] affair will have a chilling effect on sources, and paradoxically this enormous scoop will hinder our work in the long run.”
+
+Journalists in multiple countries share similar concerns. For many, spyware infections have been a prelude to harassment and imprisonment under false charges – and sometimes worse. The Guardian reported that around the time Washington Post columnist Jamal Khashoggi was killed and dismembered at Saudi Arabia’s Istanbul consulate in October 2018, phones belonging to his close associates and family were targeted with Pegasus spyware. Separately, freelance Mexican journalist Cecilio Pineda Birto was selected for surveillance with the spyware a month before his assassination in 2017, The Guardian reported.
+
+“This is above all an assault on [the] freedom of the press,” said Siddharth Varadarajan, founding editor of The Wire, a news website in India, at the International Journalism Festival in Perugia, Italy, in April. “Because when you use Pegasus or…deploy spyware against journalists, you are clearly intending to hamper the work that they do.”
+
+Spyware for hire
+
+Private spyware firms have been on the scene for more than a decade, but these were mainly small operations, Etienne Maynier, a security researcher at Amnesty International, told CPJ. The rise of NSO marked an increase in scale, attracting investors into the spyware market. Last year, NSO was considering an initial public offering.
+
+The publication of the Pegasus Project, an investigative collaboration between Forbidden Stories, Amnesty International, and 17 global media outlets, disrupted those plans. The reporting group acquired a leaked list of 50,000 phone numbers of potential targets of NSO clients. They managed to identify about 1,000 people whose phone numbers were on the list, including 189 journalists. They selected 67 people who they thought were most likely to have been hacked. Amnesty’s security lab analyzed the phones and, by July 2021, had found evidence of infections on 23 phones and of attempted penetration on another 14; the count has continued to swell. Among them were heads of state, cabinet ministers, diplomats, military security officers, and journalists from the world’s top media organizations.
+
+After the report came out, the U.S. Commerce Department added NSO to its export-restriction list, blocking hopes of an initial public offering (IPO). (CPJ is part of a coalition of human rights and press freedom groups calling on the U.S. government to keep NSO Group on that list and to hold it responsible for providing Pegasus spyware to governments that have used it for secret surveillance of journalists.) Investors once valued the firm at $1 billion but, according to filings to a London court as reported in the Financial Times in April, came to consider it “valueless.” In July, U.S. military contractor L3Harris abandoned its efforts to buy NSO; in August the company’s CEO stepped down as part of an internal reorganization.
+
+An aerial view of Israeli cyber firm NSO Group at one of its branches in the Arava Desert, southern Israel July 22, 2021. (Reuters/Amir Cohen)
+
+Still, the spyware industry, which also includes firms like Candiru, Cytrox, and RCS Labs, remains open for business. In June, Google researchers warned victims in Kazakhstan and Italy that they were being targeted by a sophisticated RCS Labs program – known as Hermit – that could go beyond stealing data to recording and making calls. “The emergence of Hermit spyware shows how threat actors – often working as state-sponsored entities – are pivoting to using new surveillance technologies and tactics following the blow-up over repressive regimes’ use of Israel-based NSO Group’s Pegasus spyware in cyber attacks against dissidents, activists and NGOs, as well as the murders of journalists,” wrote cybersecurity news outlet Threatpost.
+
+Zero-click spyware penetrates smartphones by exploiting flaws in the phones’ software. The most sought-after is a “zero-day,” a term that originally referred to the number of days since a product’s release, but which has come to mean any flaw in a device that its manufacturer is not aware of and hence has taken no action to fix. The flaws arise mainly because smartphones are designed to interact easily with the outside world. They are also extremely complex. The latest chips that Apple uses in its iPhones, for instance, have 16 billion physical components (transistors), on top of which are layers of immensely complicated software that govern basic operations of the devices, coordinate all the apps and cellular network connections and Wi-Fi, and handle a constant flow of data into and out of the phone. Inevitably a new phone hits the marketplace with security vulnerabilities – zero-days – which, for hackers, are like doors left unlocked.
+
+Apple, Google, and other manufacturers of smartphones are constantly on the lookout for zero-days, and they pay hackers for pointing them out. Hackers can make more money, though, by selling zero-days and “exploits” – computer code that takes advantage of the vulnerability to breach the phone’s security – to brokers. The highest prices go to “high-risk” vulnerabilities – those that can cause the most damage to the integrity of a phone. Zerodium, a zero-day broker based in Washington, D. C., advertises on its website bounties of up to $2.5 million for “high-risk vulnerabilities with fully functional exploits.” Spyware firms like NSO package such exploits for government clients.
+
+Impact on journalists
+
+The growth of the industry appears to have generated a rise in stealth surveillance of opposition leaders, activists, and journalists, as the Pegasus Project and other reports from Amnesty International, Citizen Lab, and other organizations have documented. With infections notoriously difficult to confirm, exact numbers are hard to determine. On the media front, some non-investigative journalists may have been targeted because they’d been in contact with sources already under surveillance. However, the most likely targets are journalists who have written articles that make autocratic governments uncomfortable, such as exposing corruption.
+
+In Morocco, for instance, the Pegasus Project reported that journalist Soulaiman Raissouni was selected for surveillance prior to becoming editor-in-chief of Akhbar al-Youm, one of the country’s few independent newspapers. He is now serving a five-year prison sentence for sexual assault, which his supporters believe was fabricated. The editor that Raissouni replaced, Taoufik Bouachrine, was also reported to be on the surveillance list. Bouachrine is currently serving a 15-year prison sentence on numerous sexual-offense charges that local journalists and press freedom advocates believe are in retaliation for his critical reporting. Forbidden Stories was unable to obtain access to their phones to confirm the presence of spyware and the Moroccan government has denied ever using Pegasus, but Bouachrine’s wife, Asmae Moussaoui, believes she proved her own phone was being monitored after a local tabloid published reports based on false information she’d deliberately used as bait in her calls.
+
+The industry’s lack of regulation makes it impossible to prevent abuse of spyware. NSO Group general counsel Chaim Gelfand refused to name specific clients when he addressed the European Parliament’s spyware investigative committee in June, but stressed that NSO only sells Pegasus to legitimate governments and said the company had terminated contracts with eight countries in recent years, with some of the cancellations made after the publication of the Pegasus Project. “The system is sold to save lives [but] anything can be misused,” he told the parliamentarians.
+
+There is ample evidence to suggest that some who came under surveillance were targeted for political reasons: seemingly because they were opposition politicians or activists or, in the case of journalists, because their work could prove embarrassing to authorities.
+
+In India, for example, the Pegasus Project found traces of the spyware on the phones of two founding editors of The Wire – Siddharth Varadarajan and M.K. Venu – and identified four others writing for the news website as potential targets. The Wire has long been a thorn in the side of the leadership for connecting the ruling Hindu nationalist Bharatiya Janata Party with allegations of corruption, promotion of sectarian violence, and use of technology to target government critics online. Police investigations, criminal defamation suits, doxxing, and threats have dogged the paper’s staff, particularly in BJP-led states.
+
+
+
+The Indian government denies that it has engaged in unauthorized surveillance, but has not commented directly on a January New York Times report that it acquired Pegasus from Israel in 2017 and has not cooperated with an ongoing inquiry by an expert committee appointed by the country’s Supreme Court to investigate illegal use of spyware. In late August, the court revealed that the committee had found malware in five out of the 29 devices it examined, but could not confirm that it was Pegasus.
+
+India’s spyware revelations have taken fears of surveillance to new levels. Journalists associated with The Wire told CPJ that the disclosures have made them much more cautious. “We would not talk [about sensitive stories] on the phone,” said Ajoy Ashirwad Mahaprashasta, the site’s political editor. “Even when we were meeting, we kept our phones in a separate room.” Although regular editorial meetings at The Wire are held through Google Meet, sensitive stories are discussed in person.
+
+Swati Chaturvedi, an investigative journalist on the target list, said her immediate concern following the revelations was protecting her sources. “In Delhi, everyone I know who is in a position of power no longer talks on normal calls,” she told CPJ.
+
+Outside the newsroom, the spying revelations have affected journalists’ families and friends. “After Pegasus, my friends and family members did not feel safe enough to call me or casually say something about the government,” said Arfa Khanum Sherwani, who broadcasts for The Wire on YouTube and is known as a critic of Hindu right-wing politics.
+
+Journalists are equally concerned in other regions around the world. In the Middle East, governments invested heavily in surveillance technology after the Arab Spring protests began over a decade ago. In particular, Israel and the United Arab Emirates have become regional hubs for the nascent spyware industry. At the same time, ruling authorities region-wide passed “cybercrimes” laws, ostensibly for curtailing the spread of misinformation or hate speech. But the laws are vague enough to encompass journalism that officials do not like.
+
+In recent years, several high-profile cases of spyware attacks against international reporters, prominent local journalists, and associates of well-known columnists such as Khashoggi have come to light. Citizen Lab has identified dozens of likely spyware operators throughout the region, particularly in the Gulf, and estimates that the region has some of the highest number of spyware infections in the world.
+
+
+
+In Jordan, Suhair Jaradat was one of two journalists who were targets of a Pegasus attack by an unknown operator publicized earlier this year. Front Line Defenders, an international human rights group, and Citizen Lab analyzed her phone and determined that it had been hacked six times in 2021. Jaradat, whose coverage includes arrests of political opposition figures, told CPJ that she believes whoever initiated the attacks were seeking the identities of her sources; at a cybersecurity conference in February, she learned that her phone had been compromised anew.
+
+The phone of Jordanian journalist Suhair Jaradat was hacked six times in 2021. (Ahmed Abde/Petra)
+
+The near impossibility of finding smoking-gun evidence that implicates the instigator of an attack is one of the most vexing aspects of hacking in general and mobile spyware in particular. What’s left is circumstantial evidence and motives. Authorities in Jordan, for instance, have denied using Pegasus. “In Jordan, authorities stated before that they don’t use this spyware, and that people inside the Royal Court were also attacked by it,” said Jaradat. “Then who is behind this attack?”
+
+In late 2018, Citizen Lab published a report that also found evidence of Pegasus throughout Africa, including Côte d’Ivoire, Togo, Uganda, Kenya, Rwanda, Zambia, South Africa, and most North African countries. “I spent nightmarish nights thinking about all my phone activities. My private life, my personal problems in the hands of strangers,” Togolese journalist Komlanvi Ketohou said after the Pegasus Project reported last year that his phone number was allegedly selected for potential surveillance.
+
+The use of Pegasus on the phones of three reporters from Togo has not been confirmed, but that’s done little to ease their fears. Speaking to CPJ 12 months after the Pegasus Project report, they said the prospect of being monitored still generates pervasive paranoia and hinders their communications with sources. “There is a kind of permanent fear,” said Ferdinand Ayité, director of Togo’s L’Alternative newspaper. “Sources treat us differently. Several people are reluctant to take our phone calls.”
+
+L’Indépendant Express director Komlanvi Ketohou is one of the Togolese journalists who may have been selected for spyware surveillance. (Photo: Komlanvi Ketohou)
+
+In Mexico, one of the world’s most dangerous countries for journalists, federal agencies spent more than $61 million on Pegasus alone and up to $300 million on surveillance technology between 2006 and 2018, according to statements by federal Public Safety Secretary Rosa Icela Rodríguez in 2021. New disclosures emerged in October 2022, when a joint investigation by three Mexico-based rights groups and Citizen Lab found evidence of Pegasus infections on the devices of two Mexican journalists and a human rights defender between 2019 and 2021 – infiltration that occurred after Mexican President Andrés Manuel López Obrador’s 2018 promise to end illegal surveillance. López Obrador denied on October 4 that his administration had used Pegasus to spy on journalists and activists.
+
+
+
+The previous Mexican administration also denied using the technology on high-profile journalists, including investigative reporter Carmen Aristegui and several people close to her, as well as Griselda Triana, the widow of journalist Javier Valdéz, who was murdered in Sinaloa in May 2017, and two journalists of RíoDoce, the magazine he co-founded.
+
+Journalists and activists protest outside the Attorney General’s Office in Mexico City after a 2017 report that their smartphones had been infected with spyware. (Reuters/Carlos Jasso)
+
+In Latin America, the International Network of Journalists found that almost every country has purchased or expressed interest in licenses for surveillance technology over the last decade. A trove of leaked documents published by Wikileaks in 2015 and summarized in a 2016 report from Chile-based digital rights organization Derechos Digitales found that 13 countries in the region bought licenses from or contacted Hacking Team, a now defunct Italian company that sold surveillance malware to public officials around the world.
+
+
+
+In January 2022, an investigation by Access Now, a global digital rights organization, and Citizen Lab, in collaboration with Front Line Defenders and other organizations, confirmed 35 cases of journalists and members of civil society in El Salvador whose phones were infected with Pegasus spyware between July 2020 and November 2021. The hacking took place while the journalists and outlets were reporting on sensitive political issues involving the administration of President Nayib Bukele, according to the report.
+
+“Surveillance technology is so dangerous in Latin America because of the absolute lack of transparency,” Gaspar Pisanu, Access Now’s Latin America policy and advocacy manager, told CPJ in an interview. “There’s no way of knowing what technology is being used, or how. We don’t know any statistics, what kind of data is being accessed, who is in charge of these programs, what type of contracts they have. Regardless of whether it’s a democratic or authoritarian government, we’re not able to know.”
+
+While headlines tend to focus on illegal surveillance and the use of spyware to target high-profile individuals, sources told CPJ that the gray area between what’s legal and what’s not leaves ample space for abuse by authorities. “Laws on access to information have very broad exceptions for national security concerns,” which allows officials to justify surveillance with relatively little oversight, said Veridiana Alimonti, associate director for Latin America policy at the U.S. digital rights group Electronic Frontier Foundation.
+
+“Even the possibility that these tools may be used affects journalists, media outlets, the entire community,” said Ángela Alarcón, Access Now’s campaigner for Latin America and the Caribbean. “Journalists are going to engage in self-censorship, they have to invest in other means of communicating, safer tools and channels, mental health support. It impacts the work of journalists, their finances, their motivation.”
+
+In Hungary, journalists told CPJ that meetings with sources have gotten slower and more complicated to arrange. Sources are more reluctant to meet. Interviews often take place outdoors with cell phones left behind. Panyi, the investigative journalist for Hungarian outlet Direkt36, found out from Amnesty International that he’d been hacked with Pegasus for six months. He subsequently investigated the hacking of other high-profile media targets, including Zoltán Varga, investor and owner of the country’s biggest independent news site, 24.hu.
+
+The surveillance of Varga started during a dinner party – “just a friendly gathering,” he told CPJ – at his house in Budapest in June 2018, shortly after Viktor Orbán won a third consecutive term as prime minister. All seven people at the dinner were selected for possible surveillance, and at least one had traces of Pegasus on their phone, according to a forensic analysis. “Using this kind of technology in such a situation for me just shows how much the government is afraid of its opponents,” Varga told CPJ.
+
+Privately sold spyware is not the only tool government authorities use for high-tech digital spying, of course. Little has been reported, for example, about any widespread use of targeted spyware in countries like China and Myanmar, identified as the world’s top two jailers of journalists in CPJ’s 2021 prison census.
+
+China has home-grown surveillance methods for tracking its citizens in general and specific groups like reporters in particular. In late 2019, Chinese authorities began requiring journalists wanting to obtain press cards to download an app called “Study the Great Nation,” which effectively doubles as spyware. According to the Washington Post, Radio Free Asia’s initiative Open Technology Fund found that the Android version of the app “collects and sends detailed log reports on a daily basis, containing a wealth of user data and app activity.” In June, a New York Times investigation found that Chinese authorities collected more personal data about its citizens than was previously known. “Phone-tracking devices are now everywhere,” said the report. “The police are creating some of the largest DNA databases in the world. And the authorities are building upon facial recognition technology to collect voice prints from the general public.”
+
+In Myanmar, CPJ has been unable to confirm if spyware was used to obtain information about the scores of journalists who have been arrested and detained since the February 2021 military coup or if it came from forensic data extracted from phones at checkpoints. Local journalists, however, remain hyper-aware of the threat that military authorities still have access to the surveillance technologies bought by the previous civilian-military government.
+
+“Ever since the coup, we journalists are on high alert and vigilant about being spied upon by the authorities given the country’s history with the notorious military intelligence unit,” said Dominic Oo, the pseudonym under which a local Yangon-based freelance reporter contributes to both local and foreign publications because he fears military reprisals. “Long gone are the days where I am able to walk around town and interview people or just call up a contact on my phone, as this would risk both the interviewer and the interviewees,” Oo told CPJ. “It’s a dystopian nightmare for local journalists reporting the truth about the junta’s brutality.”
+
+Nyan Linn Htet, editor of the independent Mekong News Agency, told CPJ via messaging app that journalists were aware of reports that Myanmar’s military is using spyware and other forms of surveillance to monitor calls by journalists and activists. “We feel totally unsafe using direct phone calls and have had to change our behavior in gathering the news,” said Nyan Linn Htet. “The impact is that it makes it difficult to gather news, data and information, particularly in verifying reports because most people in rural areas are not familiar with encrypted messaging apps.”
+
+Fighting an invisible enemy
+
+Since spyware can be so stealthy, it’s impossible to know for how many journalists have been hacked.
+
+Getting a definitive example of spyware that is installed in a phone is “exceedingly rare,” said Steven Adair, CEO of Volexity, a cyber security firm that performs forensics for The Associated Press, in an interview with CPJ. “There isn’t a really good way to track a lot of the malware, and there’s not really a good way to inspect phones. By and large, no one can actually tell you, ‘Hey my phone got compromised.’ Because there isn’t really any [diagnostic test] you can run that will tell you your phone has been exploited.”
+
+Citizen Lab’s Scott-Railton did a back-of-the-envelope calculation based on an investigation of WhatsApp infections in 2019. During two weeks of observation, Citizen Lab found that 1,400 Android users had been infected with Pegasus (though not all were zero-click infections). Assuming infections occurred in iPhones at the same rate, that comes to 2800 infections in two weeks, a rate of 75,000 infections a year. “And that’s just for Pegasus,” he said. “It’s never been a less safe time to be a journalist.”
+
+Citizen Lab’s John Scott-Railton, shown here testifying before a Polish Senate commission in Warsaw in January 2022, told CPJ that tools like Pegasus are contributing to the rise in violence against journalists. (AP/Czarek Sokolowski)
+
+Security experts at news organizations Reuters and The Associated Press, who between them employ several thousand journalists around the world, say that while they consider spyware a huge potential threat, they haven’t yet seen much of it in practice. “We have 4,000 journalists working for us, divided between staff and freelancers,” said Reuters’ Christie. “That said, when it comes to malware and Pegasus and the like it’s very hard to quantify the threat.”
+
+That uncertainty may be the most pernicious aspect of spyware. In the long-term, journalists who feel threatened by an invisible enemy that could expose their sources and their private lives to public scrutiny may start to shy away from controversial investigations, curtailing their publications’ coverage, and dealing a blow to press freedom.
+
+“All the previous incidents of phone tapping seemed like an innocent act compared to this,” The Wire’s Venu told CPJ. “Earlier it was just one conversation they would tap into. They wouldn’t see what you would be doing in your bedroom or bathroom.” Now, fear of being bugged may lead to “self-censorship,” he said. “When someone gets attacked badly, that journalist can start playing safe.”
+
+Several factors conspire to make spyware difficult to find on phones. The phones themselves are designed to be hard to break into, which makes them impervious to low-level nuisance malware but also, ironically, makes it more difficult to devise anti-spyware protection. Pegasus-like hacks also generally happen silently, though on occasion targets report their phones operating “hot” or having shorter-than-usual battery life. And since spyware is likely to be erased when a phone is updated or reset, it’s difficult for security experts to study.
+
+Amnesty’s forensics team had to work mightily to overcome these limitations during the Pegasus Project investigations. Their evidence did not include Pegasus code nor any observation of the actual program in action. Rather, the team used several indirect indicators that Pegasus had once been active on the phones. They made use of an iPhone feature that tracks certain kinds of activity on the phone’s operating system to flag “suspicious processes” consistent with Pegasus infection. They found records of website addresses (URLs) that Pegasus software has been known to use. And they found other suspicious behavior related to Apple’s iMessage, iMusic, and Facetime apps, which had known vulnerabilities.
+
+“What we found is that the backups of iPhones and several other logs have some data that keep traces of Pegasus,” Maynier told CPJ. “Since NSO moved in 2018 to zero-click attacks, [forensics] has been more challenging.”
+
+Protecting against spyware is equally challenging.
+
+
+
+Absent solid information on how many infections journalists have acquired, Reuters and AP have focused on making sure they’re taking whatever security precautions they can and emphasizing the need to educate journalists on the risks. AP advises its reporters to keep separate phones for work and personal use. It also installs “mobile device management” software on reporters’ work phones, which allows the security staff to monitor the phones for suspicious activity. “In terms of tracking Pegasus, we’re not doing anything in that area right now,” said Ankur Ahluwalia, a member of AP’s security team. “The tool sets available to do that remotely are very limited.”
+
+
+
+CPJ’s digital safety team recommends that journalists always take measures like updating their operating systems, apps, and browsers, and that high-risk targets consider having several phones that they cycle through – perhaps changing their phone every week or buying low-cost burner phones every few months.
+
+Harlo Holmes, chief information security officer and director of digital security at the U.S. nonprofit Freedom of the Press Foundation, cautions against giving in to a feeling of helplessness. “I see a lot of what I call security nihilism, in that they’ll say, ‘Nope. It doesn’t matter. I had a password manager, I had two-factor authentication. I did all of these things to protect myself. And guess what, everybody still got Pegasus.’ As an advocate for digital security in newsrooms, that’s something I really do worry about.” Holmes advocates “compartmentalization” – using different phones for work and personal lives. “Newsroom managers and editors, and anybody who has control over a budget, should be mindful of this.”
+
+Limited options
+
+The difficulty of individuals being able to defend themselves against spyware makes it clear that governments and global institutions have to step in. Surveillance technology – and the demand for it – is unlikely to disappear. The challenge now is for governments and rights advocates to find ways to regulate the industry and prevent their products being used as a tool to abuse freedom of speech and other rights.
+
+David Kaye, a law professor at the University of California Irvine and a former United Nations special rapporteur for freedom of opinion and expression, believes that it’s time for governments to ban spyware for its violation of international human rights law. “No government should have such a tool, and no private company should be able to sell such a tool to governments or others,” he writes in a column for CPJ.
+
+Other potential measures suggested to curb the use of spyware include:
+
+
+
+* A moratorium on the sale, use, and transfer of surveillance tools pending implementation of regulations that respect human rights – as called for by more than 180 civil society organizations and independent experts, including CPJ.
+
+* Restrictions on imports and exports: The U.S. has imposed import restrictions on NSO Group and pressure is growing in the European Union to implement a regulation (EU law) on the export of dual-use surveillance technology by EU-based companies. The legislation seeks to prevent exports from leading to human rights harm in countries where journalists are targeted and under surveillance because of their work.
+
+
+
+* An internationally regulated treaty allowing sales only to signatory governments that pledge to obey the rules of spyware use – a version of the “non-proliferation agreement” suggested by NSO Group’s vice president for compliance, Chaim Gelfand, at a June hearing of the European Parliament.
+
+
+
+* Holding spyware manufacturers legally accountable for illicit surveillance using their programs, as in lawsuits filed by Apple and WhatsApp-owner Facebook against the NSO Group after Pegasus infiltrated users’ phones through the tech companies’ devices and platforms.
+
+However, this patchwork of responses leaves those targeted for surveillance with limited options for finding accountability or justice. CPJ recommendations to protect journalists against spyware
+
+One reason is that spyware has proliferated at such a speed that many governments do not have the legal and regulatory structures in place to hold violators accountable. Another is that it’s seldom possible for victims even to prove who is spying on them without cooperation from the spyware companies, which invariably refuse to identify their clients on the basis of non-disclosure agreements and national security claims.
+
+Victims and civil society seeking investigations are also often dependent on governments to transparently investigate themselves. If the intrusion takes place beyond national borders, prosecuting or seeking civil remedies can be difficult, especially if the offending state is authoritarian or has a history of evading accountability.
+
+Even in democratic societies, the political will to restrict spyware may be lacking. A New York Times investigation notes that Pegasus helped Mexican authorities capture Joaquín Guzmán Loera, the drug lord known as El Chapo, and that European investigators have used the program to uncover terrorist plots and combat organized crime. Governments are reluctant to lose this surveillance capability for themselves, and many citizens may be willing to sacrifice their private information in the name of protecting national security.
+
+The challenge now is whether legislators and rights advocates can craft an effective global combination of laws, regulations, awareness, and technological solutions to prevent abuse of surveillance technology – and whether they can do it before journalists’ ability to do their jobs is irreparably damaged by the threats to their safety and sources.
+
+
+
+Editor’s note: This 12th paragraph of this report has been updated to include the name of András Pethő as a co-writer of Direkt36’s Pegasus investigation.
+
+About the author
+
+Fred Guterl is an award-winning journalist and editor who has covered science and technology for more than 30 years. Currently special projects editor for Newsweek, he is a former executive editor of Scientific American and the author of “The Fate of the Species: Why the Human Race May Cause Its Own Extinction and How We Can Stop It.”
+
+
+
+With additional reporting by Jan-Albert Hootsen in Mexico City, Kunal Majumder in New Delhi, Attila Mong in Berlin, Alicia Ceccanese in Washington D.C., Shawn Crispin in Bangkok, Tom Gibson in Brussels, Iris Hsu in Taipei, Muthoki Mumo in Nairobi, Jonathan Rozen in New York, Justin Shilad in New York and Natalie Southwick in New York.
+
+
+

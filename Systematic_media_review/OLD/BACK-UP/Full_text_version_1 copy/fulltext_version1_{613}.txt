@@ -1,0 +1,229 @@
+Android phablet developed by Samsung Electronics
+
+The Samsung Galaxy Note 7 is a discontinued Android-based phablet designed, developed, produced and marketed by Samsung Electronics. Unveiled on 2 August 2016,[6] it was officially released on 19 August 2016 as a successor to the Galaxy Note 5. It is Samsung's first phone with a USB-C connector, and the last phone in the Galaxy Note series to have a physical home button. Although it is the sixth main device in the Galaxy Note series, Samsung branded its series number as "7" instead of "6" so consumers would not perceive it as being inferior to the flagship Samsung Galaxy S7, and to prevent confusion about the order of release due to the same release year (2016).
+
+The Galaxy Note 7 is an evolution of the Galaxy Note 5 that inherited hardware components and improvements from the Galaxy S7, including the restoration of expandable storage and IP68 water resistance, and new features such as a dual-sided curved display, support for high-dynamic-range (HDR) color, improvements to the bundled stylus and new software features which utilize it, an iris recognition system, and a USB-C port. Demand for the Galaxy Note 7 upon launch was high, breaking pre-order records in South Korea and causing international releases to be delayed in some markets due to supply shortages. The Galaxy Note 7 received positive reviews from critics, who praised the quality of its construction, its HDR support, as well as its streamlined user interface, although it was criticized for its high price and increasing similarities in overall specifications to the main Galaxy S series of phones.
+
+Samsung suspended sales of the Galaxy Note 7 and announced an informal recall on 2 September 2016 after it was found that a manufacturing defect in the phones' batteries caused some of them to generate excessive heat, resulting in fires. After a formal U.S. recall was announced on 15 September 2016,[7][8] Samsung exchanged the affected phones for a new revision which utilized batteries sourced from a different supplier. However, after reports emerged of incidents where the replacement phones also caught fire, Samsung recalled the Galaxy Note 7 worldwide on 10 October 2016, and permanently ceased production of the device a day later. As a safety precaution, they distributed multi-layer fireproof boxes with packing instructions.[9] Due to the recalls, Samsung issued software updates in some markets that were intended to "eliminate their ability to work as mobile devices", including restricting battery capacity and blocking their ability to connect to wireless networks. Samsung stated that it intends to recycle reusable silicon and components from the recalled models, and release refurbished models "where applicable".
+
+The recall had a major impact on Samsung's business in the third quarter of 2016, with the company projecting that its operating profits would be down by 33% in comparison to the previous quarter. Credit Suisse analysts estimated that Samsung would lose at least US$17 billion in revenue from the production and recall of the Galaxy Note 7. In July 2017, nine months after the Note 7 recall, Samsung released a refurbished version of the Galaxy Note 7, known as Galaxy Note Fan Edition (marketed as Samsung Galaxy Note FE). It has a smaller battery of 3200 mAh and is supplied with Android Nougat with Samsung Experience UI, the operating system of the Galaxy S8. The successor to the Galaxy Note 7, the Galaxy Note 8, was announced on 23 August 2017 and released almost a month later.
+
+Specifications [ edit ]
+
+Rear of a blue Samsung Galaxy Note 7
+
+Hardware [ edit ]
+
+Exterior [ edit ]
+
+The Galaxy Note 7's hardware is similar in overall specifications and design to the Galaxy S7, with a metal and glass chassis, IP68 water resistance, and a microSD card slot.[10]
+
+Chipsets [ edit ]
+
+The Note 7 is equipped with an octa-core Exynos 8890 system-on-chip in most markets, and 4 GB of RAM. In China, Japan, and the United States, the Note 7 uses the quad-core Qualcomm Snapdragon 820 instead (which supports older CDMA networks that are extensively used by wireless carriers in these markets),[11][12][13] Unlike the S7, which uses Exynos chips in this market, Canadian models of the Note 7 also use the Snapdragon 820.[14] The Note 7 uses a USB Type-C port, marking Samsung's first mobile phone with the symmetrical connector.[10][15][16]
+
+Display [ edit ]
+
+The Galaxy Note 7 features a 5.7 inches (140 mm) 1440p Super AMOLED display. Similarly to the "Edge" models of the S6 and S7, the display curves over the side bezels of the device; the curvature allows the Note 7 to be 2.2 millimetres (0.087 in) narrower than the Galaxy Note 5.[10] The display supports high-dynamic-range video,[17] and is the first Samsung flagship phone to be coated in Gorilla Glass 5.[18]
+
+Stylus [ edit ]
+
+As with all Galaxy Note models, the device is supplied with an active stylus branded as "S Pen". The Note 7 stylus supports 4,096 levels of pressure sensitivity and is water resistant.[10]
+
+Camera [ edit ]
+
+The Note 7 features the same 12-megapixel rear-facing camera as the S7,[10] with a "Dual Pixel" image sensor and f/1.7 aperture lens.[5][19]
+
+Biometrics [ edit ]
+
+The Galaxy Note 7 also offers an iris recognition system, using a front-facing camera and infrared illumination. The iris scanner can be used for unlocking, and as authentication for other features of the device (such as Samsung Pay and Secure Folder). A fingerprint reader is also embedded in the home button.[10][20][21]
+
+Accessories [ edit ]
+
+Optional accessories for the device are the S-View Standing Cover with a preview window through which basic device functionality is accessible while closed, and a water-resistant battery case which delivers power wirelessly through its Qi interface.[22]
+
+Software [ edit ]
+
+The Galaxy Note 7 is supplied with Android 6.0 "Marshmallow" and an updated version of Samsung's proprietary TouchWiz user interface and software suite codenamed "Project Grace". It features an "always-on display" mode, which can display a clock and notifications on-screen when the device is not in use; different clock styles and support for notifications from third-party apps were added for the "Grace" version. The Screen off memo feature also leverages this mode, allowing users to write notes on the always-on display. The OS also features several new tools supporting the S Pen stylus, including translation, a screen magnifier, and a GIF recording tool. The previous suite of note-taking apps were also consolidated into a single Samsung Notes app.[10][23][24]
+
+The Galaxy Note 7 introduces a security feature known as "Secure Folder"; it allows users to create a private workspace, protected by an authentication method, with separate user data and apps that are sandboxed from the main system. Installed apps can be cloned into Secure Folder, and users can designate whether notifications generated by apps in the Secure Folder are displayed from outside it. Secure Folder is based on the Samsung Knox 2.7 technology, which also added the ability for enterprises to control the distribution of system updates, and improvements to mobile device management and Microsoft Exchange Server integration.[25][26]
+
+The device also introduces Samsung Pass, a platform allowing apps to provide biometric authentication using its iris scanner. Samsung reached partnerships with several major U.S. banks to explore the integration of Samsung Pass into their mobile apps.[27]
+
+Release [ edit ]
+
+Pre-orders for the Galaxy Note 7 opened the day after its unveiling, with a release in the United States on 19 August 2016.[10][19] Samsung skipped the numbering of the Galaxy Note series directly from "5" to "7" to synchronize it with its flagship Galaxy S series and the Galaxy S7 line. The company stated that consumers may have perceived the Galaxy Note models to be inferior in technology to Galaxy S models because the numbering in their names were one digit lower.[6]
+
+Pre-orders in South Korea already broke records, with over 200,000 units pre-ordered within two days.[28] Samsung Canada stated that pre-orders in Canada were "outstanding".[29] The demand also forced countries such as Malaysia, the Netherlands, Russia, and Ukraine to delay their releases to September due to supply shortages.[30][31][32]
+
+Reception [ edit ]
+
+TechRadar [ edit ]
+
+TechRadar said that the Galaxy Note 7's "rich-looking, glass-and-metal-fused design" would "really wow people who are upgrading from those old, plastic-clad Note 4 and Note 3 handsets", but noted that the curved edges of the screen infrequently caused minor issues when using the stylus. The display was considered to be vibrant and well-suited for multimedia, especially due to its HDR support. Aspects of the software were also praised, including the continued trimming of Samsung's TouchWiz suite and its streamlined settings interface, and that it already included features introduced to the stock operating system as of Android "Nougat" (although still being initially supplied with Android "Marshmallow"). Of the device's new stylus-oriented features, the consolidated S Notes app, GIF recorder, and always-on display functionality were commended, but the translation tool was considered inferior to Google Translate. The Galaxy Note 7's battery was judged as being capable of one-and-a-half days of normal use, and it was noted that the software also featured numerous estimation and power-saving features. Techradar concluded that "if you're going to get out of the stylus, the Note 7 is an obvious choice. The iris scanner doesn't make it a convincing enough buy on its own. Otherwise, save your money and stick with the S7 Edge."[17]
+
+Ars Technica [ edit ]
+
+Ars Technica was critical of the Note 7 due to its similarities to the Galaxy S7. The Note 7's refreshed design was commended for being smoother and more ergonomic than previous Samsung devices with curved screens, although the company was panned for using glass on the rear panel rather than metal. The S Pen was also criticized for feeling "cheap", and was described as a "hollow plastic tube that would feel more at home in a 100-pack of disposable Bic pens than in an ultra-premium $850 smartphone". The iris scanner's implementation was panned for adding additional steps to the process of unlocking the phone in comparison to the fingerprint reader, and that it does not integrate into Android's integrated authentication platforms (making it proprietary to Samsung components). Warnings regarding looking at the sensor for too long were also considered "just a little scary". TouchWiz on the Note 7 was panned for consisting mainly of "'different for the sake of being different' changes that don't add much to the software experience" and make the interface less consistent with third-party software by removing elements of the Material design language. In conclusion, Ars Technica doubted whether the Galaxy Note series was still necessary due to its increasing similarities to the main Galaxy S line, and felt that the device was priced too high, citing Chinese vendors capable of undercutting the prices of major brands while still producing phones of similar specifications.[33]
+
+Android Police [ edit ]
+
+Upon release, technology journalist David Ruddock of Android Police criticized the Samsung Galaxy Note series for no longer being targeted towards power users like it was years prior.
+
+Ruddock stated that since 2015's Samsung Galaxy Note 5, not much except for the S Pen stylus sets the Galaxy Note devices of the year apart from the respective Galaxy S series devices released earlier that year.[34]
+
+Issues [ edit ]
+
+Battery faults [ edit ]
+
+Galaxy Note 7 Note security information
+
+Battery defects caused many Note 7 units to overheat and combust or explode.[35][36][37][38][39] On 10 October 2016, Samsung permanently discontinued the Galaxy Note 7 due to these repeated incidents.[40]
+
+In the original run of devices, the battery produced by Samsung SDI[41] contained a design flaw that made electrodes on the top-right of the battery susceptible to bending. This weakened separation between positive and negative tabs of the battery, resulting in thermal runaway and short circuits.[35][36]
+
+Following an official recall on 12 September 2016,[8] the Galaxy Note 7 was re-versioned using batteries from China-based Contemporary Amperex Technology (CATL or ATL), which also supplies batteries to the iPhone smartphones.[41] On 23 January 2017, Samsung stated that these batteries had suffered from a manufacturing defect in the welding process, which pushed electrodes up and caused damage to the separation between the positive and negative tabs. Some batteries were also missing insulation tape entirely. Samsung reported that these oversights resulted from the vendor's push to ramp up production of batteries for the replacement phones in order to meet demand.[35][36]
+
+Due to the battery defects, the device was considered a hazmat product, and was prohibited from being taken onboard at many airlines and bus stations.[42][43]
+
+Eventually, Samsung released two updates for the Note 7, one that activated a 60% charge limit and then a 0% charge limit that made the phone unusable even though the charge limit can be removed by erasing the phone and downgrading it to Version 1, the stock release.
+
+Initial reports [ edit ]
+
+On 31 August 2016, it was reported that Samsung was delaying shipments of the Galaxy Note 7 in some regions in order to perform "additional tests being conducted for product quality"; this came alongside user reports of batteries exploding while charging.[44] On 1 September, South Korea's Yonhap News Agency reported that Samsung was preparing to recall the device worldwide due to these battery issues. On 2 September, Samsung suspended sales of the Galaxy Note 7 and announced an informal recall after it was found that a manufacturing defect in the phones' batteries had caused some of them to generate excessive heat, resulting in fires and explosions. A formal U.S. recall was announced on 15 September 2016.[7][8] Samsung exchanged the affected phones for a new revision which utilized batteries sourced from a different supplier. However, after reports emerged of incidents where these replacement phones also caught fire, Samsung recalled the Galaxy Note 7 worldwide on 10 October 2016, and permanently ceased production of the device a day later. Due to the recalls, Samsung has issued software updates in some markets that are intended to "eliminate their ability to work as mobile devices", including restricting battery capacity, and blocking their ability to connect to wireless networks.
+
+A Samsung spokesperson stated that the company had received 35 reports of battery failure, which "account for less than 0.1 percent of the entire volume sold".[7][44] Samsung stated that the hazard was limited to a small fraction of phones manufactured, and released a tool on its website on 19 September to identify affected units by their unique IMEI numbers.[45]
+
+On 8 September 2016, the U.S. Federal Aviation Administration (FAA) issued an advisory warning passengers not to turn on or charge these devices on board aircraft.[46] The European Aviation Safety Agency made a similar statement on 9 September, stating that "passengers are reminded of the need to inform the cabin crew when a device is damaged, hot, produces smoke, is lost, or falls into the seat structure."[47]
+
+First recall [ edit ]
+
+On 15 September 2016, the Galaxy Note 7 was officially recalled in the United States by the Consumer Product Safety Commission, who advised all owners to shut down and cease all usage of the device and return them in exchange for a replacement.[8] On 13 September, Samsung announced in newspaper advertisements that it would release a software patch to the affected Galaxy Note 7 devices in South Korea, which prevents the device from being charged beyond 60% capacity to reduce the risk of combustion.[48][49]
+
+The Galaxy Note 7 was subsequently reissued with batteries supplied by Chinese company Amperex Technology Limited (which also serves as the main battery supplier for the iPhone line).[41] These replacement models, which Samsung purportedly[50][51] classified as being safe, had a prominent marking on their packaging to distinguish them from the first wave of recalled units[52] and render all software battery indicators with green icons. Samsung was granted special permission by Google to allow this change, as it would normally violate the requirements of the Android Compatibility Definition Document (which must be met to license Google Mobile Services software and Android trademarks)[53] for all status bar icons to only be rendered in white.[54] Following the announcement of the recall, Verizon Wireless released a software update to Galaxy Note 7 units purchased from the carrier, which displays the aforementioned green icons on safe devices and an embedded recall notice on affected devices when the device is plugged in. Unlike the South Korean update, it does not include a charging cut-off.
+
+Samsung reported that 80% of devices had been replaced in South Korea, and roughly 50% in Europe and North America. Only 10%[failed verification] of devices in the U.S. were returned, with about 50,000 units traded for a different model. However, Samsung stated that 95% of users chose to maintain their loyalty to the company.[56][57]
+
+Issues with replacement phones [ edit ]
+
+In October 2016, several incidents occurred in which replacement Galaxy Note 7 phones still suffered from battery failure and combustion. A Galaxy Note 7 owner in Kentucky was hospitalized with acute bronchitis due to smoke inhalation after his replacement device caught fire in the early morning of 4 October 2016. The owner told a local television station that he had received a text message not meant for him from a Samsung customer service representative, which read, "Just now got this. I can try and slow him down if we think it will matter, or we just let him do what he keeps threatening to do and see if he does it".[50][37]
+
+On 5 October 2016, a Southwest Airlines flight preparing to depart from Louisville was evacuated before takeoff when a passenger's replacement Galaxy Note 7, obtained from an AT&T retail outlet, began smoking and popping as they were turning it off. Samsung stated that they were working with the airline to investigate the incident, but said they would be unable to confirm whether the device was a replacement until it was recovered.[58]
+
+On 7 October 2016, a third replacement phone in Minnesota reportedly caught fire in a similar manner.[51]
+
+Second recall and subsequent discontinuation [ edit ]
+
+In response to incidents involving replacement phones, the United States' five major wireless carriers (AT&T Mobility and T-Mobile US on 9 October, along with Sprint Corporation, Verizon Wireless, and U.S. Cellular on 10 October) subsequently announced that they would suspend sales of the Galaxy Note 7 until further notice, pending an investigation.[38][59][60][61][62]
+
+On 10 October 2016, Samsung officially announced that it had "[asked] all carrier and retail partners globally to stop sales and exchanges" of the Galaxy Note 7, and urged all owners to power them off and "take advantage of the remedies available, including a refund at their place of purchase".[63] A day later, Samsung announced it would permanently cease production of the Galaxy Note 7 in the interest of customer safety.[40][64] Samsung began issuing special kits to package the devices for returns, which consist of an antistatic bag that the phone is to be inserted into, and three layers of boxes—the last of which is lined with ceramic fibre paper for fire protection. The shipping box also contains instructions explicitly stating that they are not to be shipped by air.[65] Samsung told Vice's Motherboard that it would not repair or refurbish any of the returned phones but would "safely dispose" of them.[66][67]
+
+Following Samsung's actions, the Rwanda Utilities and Regulatory Authority and the United States' Consumer Product Safety Commission issued official recalls of all Galaxy Note 7 units, banning the sale and distribution of any Note 7 phone within both countries.[68][69][70] The Royal Mail and the British courier company Parcelforce announced they would not accept or deliver any parcels containing a Galaxy Note 7.[71] Online marketplaces eBay and Gumtree also began to pull listings selling Galaxy Note 7 devices.[72] After the suspension of sales, Oculus VR issued an update to its software for the Samsung Gear VR virtual reality headset, which blocks its use with the Galaxy Note 7 for safety reasons. The headset had been included with some units of the phone as a promotional offer.[72][73]
+
+On 14 October 2016, the U.S. Federal Aviation Administration and the Department of Transportation's Pipeline and Hazardous Materials Safety Administration banned the Note 7 from being taken aboard any airline flight, even if powered off.[74][75] Qantas, Virgin Australia and Garuda Indonesia issued similar bans,[76] while Transport Canada issued a notice stating that the Note 7 was banned from flights under Special Provision 137 prohibitions, banning the carriage of damaged or defective lithium-ion batteries onto flights.[77] In response to these air travel bans, Samsung announced it would set up dedicated kiosks at selected airports in order to allow travelers to exchange or receive a refund for their Galaxy Note 7 on-site before departing, rather than having it confiscated by security or airport staff.[78]
+
+On 20 December 2016, a Virgin America flight from San Francisco to Boston was nearly diverted mid-flight after it was discovered that a passenger on the plane had been operating a Wi-Fi hotspot with the SSID "Samsung Galaxy Note7_1097". However, it was later discovered that the hotspot was a hoax and that no passenger had actually brought a Galaxy Note 7 onboard.[79][80]
+
+Disabling of functionality [ edit ]
+
+On 4 November 2016, the New Zealand Telecommunications Forum announced it would ban all Galaxy Note 7 phones from use on local mobile networks beginning on 18 November, enforced via IMEI blacklist.[81] On 30 November, Samsung announced that Galaxy Note 7 devices would be banned from Australian wireless networks effective 15 December 2016.[82][83]
+
+In December 2016, Samsung announced its intent to cripple the functionality of unreturned Galaxy Note 7 phones in Canada and the United States via software updates. In Canada, an update restricted charge capacity and blocked the phone from connecting to any wireless networks or using Wi-Fi or Bluetooth. In the United States, the update blocked the devices from being recharged in order to "eliminate their ability to work as mobile devices".[84][85]
+
+Verizon announced that it would refuse to distribute this update due to the "added risk this could pose to Galaxy Note 7 users that do not have another device to switch to" because it would "make it impossible to contact family, first responders or medical professionals in an emergency situation", especially during the holiday season. On 18 December 2016, Verizon announced they would be distributing the update on 5 January 2017.[86] Sprint also said it would not distribute this update until January 2017.[87] Verizon later announced it would redirect all outgoing calls (excluding emergency calls) made on unreturned Galaxy Note 7 devices to a service hotline demanding that they be returned, and threatened to charge customers a fee equaling the total retail cost of the phone if they refused to comply.[88]
+
+On 9 January 2017, Samsung released another update in South Korea which blocked the device from being charged beyond 15%.[89]
+
+On 24 March 2017, Samsung released another update for South Korean users, barring charging of the Galaxy Note 7.[90]
+
+Aftermath [ edit ]
+
+The Verge panned Samsung's overall handling of the battery faults and recall, arguing that the company had initially delivered unclear messaging over whether or not the devices were still safe to use, as well as its slow communication with the U.S. Consumer Product Safety Commission, which had the capacity to issue an official recall in the United States. The arguments were based on data released on 13 September 2016 by the research firm Apteligent, which stated that Galaxy Note 7 usage had been "almost exactly the same" since the announcement of the exchange program.[91] The Verge also noted that the U.S. government's ban on taking Galaxy Note 7 phones aboard airline flights was "perhaps unprecedented", acknowledging that only the ban of hoverboards by individual airlines for similar reasons—an entire class of products (albeit one that was "admittedly fire-prone because of cheap materials")—came close to a legal ban for a single consumer product in terms of overall magnitude.[74] Kyle Weins of Wired felt that Samsung switched to non-removable batteries in order to imitate the industrial design of Apple after having used removable batteries on many of its past models, such as the Galaxy Note 4. He argued that this design decision exacerbated the battery faults of the Note 7 by requiring users to replace the entire phone instead of only the battery. He suggested that Samsung could "lead the pack" in the future by switching back to removable batteries, as with other "responsible" OEMs such as HP and LG Electronics.[92]
+
+Analysts argued that the recall had hurt Samsung's brand, and would likely result in the company losing its market share to competitors, including Apple and Google (which had recently unveiled their respective iPhone 7 and Pixel models) and other Android vendors.[40][64] Credit Suisse analysts predicted that the recall and discontinuation would result in Samsung losing nearly US$17 billion in revenue.[93] On 12 October 2016, Samsung revised its earnings forecast for the third quarter of 2016, estimating a 33% drop in operating profits in comparison to the second quarter of 2016, and revenue expectations cut by ₩2 trillion to ₩47 trillion (US$41.8 billion).[94]
+
+On 18 October 2016, McCuneWright LLP sued Samsung and filed a proposed class-action lawsuit over its handling of the recall, stating that the company had "failed to reimburse consumers for monthly costs associated with owning an unusable Note 7".[95] Samsung was also panned by customers affected by the exploding phones, who alleged that the company refused to compensate them for property damage caused by the explosions.[96]
+
+In the wake of the recall, Samsung, along with UL LLC, Exponent, and TÜV Rheinland, performed internal testing and analysis to determine the exact causes of the defects. Samsung released its official findings on 23 January 2017. The investigation found that the battery failures were caused by short-circuiting of the battery electrodes as a result of manufacturing defects. For the original batteries this was due to the electrodes touching at a fold of the battery layers, whereas for the batteries after the first recall, the separator sheet could be punctured by welding defects.[97] Concurrently, the company announced that all of its future battery-operated products would be subject to an "enhanced" eight-point inspection and testing protocol, including stricter visual inspections, as well as charge and discharge tests, Total Volatile Organic Compound tests, and accelerated usage tests. An advisory board of academics was also formed.[98]
+
+Concerns were also raised over the creation of electronic waste resulting from Samsung's announced plan to destroy all returned phones rather than recycling and refurbishing them into new products.[66][67] In February 2017, Korea Economic Daily reported that Samsung had been considering refurbishing the Galaxy Note 7 into a modified version with lower battery capacity to be targeted at markets such as Vietnam. A representative of Samsung India denied these reports.[99] Greenpeace disrupted a press conference by Samsung at Mobile World Congress to protest the company's unclear plans for the recalled devices. On 27 March 2017, Samsung announced that it intended to extract reusable parts such as metal, semiconductors, and cameras from the recalled devices, and market refurbished devices "where applicable".[100][101]
+
+After the discontinuation of the Note 7, some features in the device (such as Samsung Pass, Secure Folder, S Pen related features, and Grace UX) were eventually made available in Android Marshmallow (e.g. Galaxy A8 (2016), Galaxy A (2017) series and Galaxy Tab A 10.1 (2016)) and Nougat (e.g. Galaxy Note 5 (via software update), Galaxy S8/S8+ and Galaxy C Pro series).[citation needed]
+
+Samsung Galaxy Note Fan Edition (FE) [ edit ]
+
+Samsung Galaxy Note Fan Edition
+
+Backside of the Samsung Galaxy Note Fan Edition
+
+In June 2017, the Wall Street Journal reported on Samsung's plan to refurbish its inventory of recalled phones and release them with a new model designation of Galaxy Note FE, the "FE" being an abbreviation of "Fan Edition". The phone was also rumored to be named the Note 7R, with the "R" standing for "refurbished". This phone was released in South Korea on 7 July 2017, with limited availability in other countries to follow, and a price of $610; being a $255 discount from the price of the Note 7.[102]
+
+The Fan Edition has a smaller battery of 3200 mAh and multiple safety features. The software is identical to that of the S8, featuring a similar UI, and includes Bixby home and reminders but not the entire Bixby assistant.[103][104] Samsung introduced an eight-point battery check after the Note 7 to make sure all of their batteries were safe for new and current devices in production. There have been no reported incidents of an S8 or S8+ catching fire after their release as the first new flagship device to go through the eight-point battery check, nor have there been reports of the Note 8 catching fire.[105][106]
+
+After the Fan Edition was released in South Korea, the Galaxy Note FE was also released in select countries in Asia and Saudi Arabia starting in October 2017.[107]
+
+Variants [ edit ]
+
+Galaxy Note 7 [ edit ]
+
+Samsung Exynos 8890 models [ edit ]
+
+SM-N930F (International Single Sim)
+
+SM-N930FD (International Dual SIM)
+
+SM-N930S (South Korea SK Telecom)
+
+SM-N930K (South Korea KT)
+
+SM-N930L (South Korea LG U+)
+
+Qualcomm Snapdragon 820 models [ edit ]
+
+SM-N9300 (China Open Model)
+
+SM-N930V (USA Verizon Wireless)
+
+SM-N930AZ (USA Cricket Wireless)
+
+SM-N930P (USA Sprint)
+
+SM-N930T (USA T-Mobile US)
+
+SM-N930R4 (USA US Cellular)
+
+SM-N930R4 (USA Straight Talk)
+
+SM-N9308 (China Mobile)
+
+SM-N930U (USA Unlocked)
+
+SM-N930A (USA AT&T)
+
+SM-N930W8 (Canada)
+
+SCV34 (SM-N930J, Japan KDDI au, Canceled)
+
+SC-01J (SM-N930D, Japan NTT DOCOMO, Canceled)
+
+Galaxy Note Fan Edition (FE) [ edit ]
+
+Samsung Exynos 8890 models [ edit ]
+
+SM-N935F (International)
+
+SM-N935F/DS (International Dual SIM)
+
+SM-N935S (South Korea SK Telecom)
+
+SM-N935K (South Korea KT)
+
+SM-N935L (South Korea LG U+)
+
+See also [ edit ]
+
+Samsung Galaxy – Series of Android smartphones, mobile computing device and Android applications
+
+Samsung Galaxy Note series – Discontinued series of high-end Android phablets and smartphones
+
+References [ edit ]

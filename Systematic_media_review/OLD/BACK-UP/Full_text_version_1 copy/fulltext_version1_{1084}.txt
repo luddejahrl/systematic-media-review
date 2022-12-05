@@ -1,0 +1,23 @@
+PCB / PWB finishing
+
+The ability to control finishing processes determines the pitch, reliability and shelf life of boards. Measure electroless nickel (EN, NiP) plating thickness and composition according to IPC-4556 and IPC-4552B. Hitachi High-Tech Micro XRF products enable you to maintain your operations in tight tolerance to ensure high quality and avoid costly re-work.
+
+Electric and electronic component plating
+
+Components must be plated within specification in order to provide the desired electrical, mechanical and environmental properties. Measure small features or continuous strips using the slotted chamber of the X-Strata series products to control top, intermediate and strike layers for lead frames (leadframes), connector pins, wire and terminations.
+
+IC substrate packages
+
+Semiconductors are becoming increasingly miniaturized and complex, requiring analytical equipment to measure thin films in small areas. Hitachi High-Tech benchtop analyzers are designed to provide high precision analysis and reproducible sample positioning for demanding applications.
+
+Electronic manufacturing services (EMS, ECS)
+
+Combining sourced and locally manufactured components to build a final assembly or product involves many test points, from incoming inspection to at-line process control to final quality control. Our benchtop XRF products allow you to analyze components, solder and finishes throughout the facility, ensuring quality at every step.
+
+Photovoltaics
+
+The demand for renewable energy continues to increase, with photovoltaics playing an important role in harnessing the power of the sun. The ability to collect this energy efficiently is in part determined by the quality of the thin film solar cells. Ensure these cells are plated accurately and consistently with microspot XRF to achieve maximum efficiency.
+
+Restricted materials and high reliability screening
+
+Working with a complex, global supply chain it is critical to trust and verify materials received from suppliers. Use our XRF technology to validate incoming shipments comply with regulations such as RoHS and ELV following IEC 62321 methodology, and ensure high reliability coatings are applied for aerospace and military applications.

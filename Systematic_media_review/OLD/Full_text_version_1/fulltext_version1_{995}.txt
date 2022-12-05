@@ -1,0 +1,17 @@
+Abstract
+
+Background
+
+Exposure during pregnancy to household air pollution caused by the burning of solid biomass fuel is associated with adverse health outcomes, including low birth weight. Whether the replacement of a biomass cookstove with a liquefied petroleum gas (LPG) cookstove would result in an increase in birth weight is unclear.
+
+Methods
+
+We performed a randomized, controlled trial involving pregnant women (18 to <35 years of age and at 9 to <20 weeks’ gestation as confirmed on ultrasonography) in Guatemala, India, Peru, and Rwanda. The women were assigned in a 1:1 ratio to use a free LPG cookstove and fuel (intervention group) or to continue using a biomass cookstove (control group). Birth weight, one of four prespecified primary outcomes, was the primary outcome for this report; data for the other three outcomes are not yet available. Birth weight was measured within 24 hours after birth. In addition, 24-hour personal exposures to fine particulate matter (particles with a diameter of ≤2.5 μm [PM 2.5 ]), black carbon, and carbon monoxide were measured at baseline and twice during pregnancy.
+
+Results
+
+A total of 3200 women underwent randomization; 1593 were assigned to the intervention group, and 1607 to the control group. Uptake of the intervention was nearly complete, with traditional biomass cookstoves being used at a median rate of less than 1 day per month. After randomization, the median 24-hour personal exposure to fine particulate matter was 23.9 μg per cubic meter in the intervention group and 70.7 μg per cubic meter in the control group. Among 3060 live births, a valid birth weight was available for 94.9% of the infants born to women in the intervention group and for 92.7% of infants born to those in the control group. The mean (±SD) birth weight was 2921±474.3 g in the intervention group and 2898±467.9 g in the control group, for an adjusted mean difference of 19.5 g (95% confidence interval, −10.1 to 49.2).
+
+Conclusions
+
+The birth weight of infants did not differ significantly between those born to women who used LPG cookstoves and those born to women who used biomass cookstoves. (Funded by the National Institutes of Health and the Bill and Melinda Gates Foundation; HAPIN ClinicalTrials.gov number, NCT02944682.)

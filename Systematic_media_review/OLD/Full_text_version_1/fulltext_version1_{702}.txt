@@ -1,0 +1,63 @@
+Electrostatic painting is the process of charging particles in paint to more efficiently paint a work piece.
+
+
+
+When a powerful electric charge is added to atomized paint, a significant increase in paint is added to the part. This is called improved transfer efficiency. In general this means, more paint on the part and less paint going to waste.
+
+Measuring transfer efficiency
+
+Transfer efficiency can be measured in a number of ways:
+
+Savings in paint cost More paint on the part, means less paint used in the process. When paint consumption goes down, initial cost of purchasing paint also goes down.
+
+
+
+Less hazardous material after process is completed Less paint equals less Volatile Organic Compounds (VOCs) and Hazardous Air Pollutants (HAPs) emitted into the environment, potentially decreasing permitting issues. Less VOCs and HAPs lead to a greener work environment.
+
+
+
+How does electrostatic Spray painting work?
+
+
+
+Think grade school science. Remember protons, neutrons and electrons? All matter contains charged particles.
+
+Positively charged particles have more protons than electrons.
+
+Negatively charged particles have more electrons than protons.
+
+Particles with equal amount of protons and electrons are neutral.
+
+
+
+Now, think about magnets. When you try to put the north or south poles of magnets together, they will naturally repel. However, if you align the north and south poles together, they will attract. The same is true for protons, electrons and neutrons.
+
+Like charges repel, while unlike charges attract. Therefore, if we put a powerful electrical charge on atomized paint by passing the paint through a field of electrons and project it towards grounded object (or it has a neutral electrical condition), then we have created an environment that results in a natural electrical attraction between electrons and neutrons. This results in more paint being applied to the target.
+
+How to paint parts better with electrostatic Spray guns?
+
+When using electric applicators, remember these important tips:
+
+
+
+Don’t be too close!
+
+If the gun and the part are too close together, the gun and the part become electrically connected, providing a direct ground directly to the gun. This results in no electrostatic transfer efficiency improvements
+
+If the gun and the part are too close together, the gun and the part become electrically connected, providing a direct ground directly to the gun. This results in no electrostatic transfer efficiency improvements Or too far away!
+
+If the gun is too far away, the charged particles will seek out other closer grounds. Generally, this is the one operating the gun. This tends to put more paint on the operator, than on the part.
+
+If the gun is too far away, the charged particles will seek out other closer grounds. Generally, this is the one operating the gun. This tends to put more paint on the operator, than on the part. Avoid the Faraday cage effect
+
+When you're trying to paint into corners, charged paint tends to go towards the closest ground, which isn’t the corner. This is known as the Faraday cage effect. In order to avoid this, it is easiest to be able lower the voltage or remove the voltage on the gun until this part of the painting process is finished.
+
+When you're trying to paint into corners, charged paint tends to go towards the closest ground, which isn’t the corner. This is known as the Faraday cage effect. In order to avoid this, it is easiest to be able lower the voltage or remove the voltage on the gun until this part of the painting process is finished. Always stay grounded
+
+Grounding is an important factor when painting with electrostatics. Keep part hooks and ground hooks clean and free of overspray. These connection points play a vital role in setting up the natural attraction of electrons and neutrons.
+
+Why paint with electrostatics?
+
+Painting with electrostatics leads to process improvements in painting operations, ranging from automotive and aerospace to various applications that involve solvent and water-based paints.
+
+Using electrostatics can increase productivity, reduce paint overspray, and minimize paint usage.

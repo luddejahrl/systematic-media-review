@@ -1,0 +1,28 @@
+Other policy relevant indicators
+
+School life expectancy School life expectancy by level of education
+
+Mean years of schooling Mean years of schooling
+
+Graduation ratio from tertiary education Gross graduation ratio from tertiary education
+
+Percentage of graduates by field of education (tertiary education) Distribution of tertiary graduates by field of study
+
+Percentage of students by programme orientation (ISCED 2, 3, 4 & 5) Distribution of enrolment by programme orientation
+
+Number of illiterates / Percentage of illiterates who are female Illiterate population
+
+Percentage of illiterates who are female
+
+Percentage of enrolment in private institutions by level of education Distribution of enrolment by type of institution
+
+Survival rate by grade for primary education Survival rate in primary education
+
+Official entrance age and theoretical duration by level of education (years) Official entrance age Official entrance age to each ISCED level of education
+
+Theoretical duration Duration by level of education
+
+
+
+Start and end of academic school year (month, year) Academic year Start and end of the academic year
+

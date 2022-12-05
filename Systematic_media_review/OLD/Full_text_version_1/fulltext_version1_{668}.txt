@@ -1,0 +1,69 @@
+Get the free Morning Headlines email for news from our reporters across the world Sign up to our free Morning Headlines email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Morning Headlines email {{ #verifyErrors }}{{ message }}{{ /verifyErrors }}{{ ^verifyErrors }}Something went wrong. Please try again later{{ /verifyErrors }}
+
+An asylum seeker electronically tagged by the government after being selected for removal to Rwanda is launching a legal challenge.
+
+The man, who cannot be named for legal reasons, said that after being tortured and trafficked in Sudan and Libya he has been treated “like an animal” in the UK.
+
+A psychiatric report found that being forced to wear a tag had worsened his mental health, including depression, anxiety and post-traumatic stress disorder, and increased the risk of self-harm and suicide.
+
+The Rwanda plan is already facing a number of legal challenges (PA Wire)
+
+His legal representatives are applying for a judicial review of the Home Office’s “electronic monitoring expansion pilot”, which applies tags normally used for foreign offenders to asylum seekers crossing the English Channel in small boats.
+
+Ahmed Aydeed, the director of public law at Duncan Lewis Solicitors, told The Independent: “The home secretary’s dream is the nightmare of survivors of trafficking and torture.
+
+“Even after our clients have finally escaped these criminal gangs, they have our government tracking their every move through 24/7 surveillance. All our clients want to do is rebuild their lives.”
+
+The action will be lodged on Friday, becoming the fourth High Court case relating to migrants selected for the Rwanda scheme.
+
+Judges are currently hearing the second legal challenge over Priti Patel’s deal and are expected to give their judgment on that and a previous case later this month.
+
+The first challenge was launched in September by Care4Calais, Detention Action and the PCS union, while a third case is also underway relating to the use of migrants’ data.
+
+Protests have been held against the government’s deporation plan (Getty Images)
+
+The cases have delayed the implementation of the Rwanda policy, with no flights attempted since the first plane was grounded amid a wave of injunctions by the European Court of Human Rights in June.
+
+Speaking at the Conservative Party conference last week, new home secretary Suella Braverman said seeing a flight take asylum seekers to the country was her “dream” and “obsession”.
+
+The tagging pilot, which started in June, allows the electronic monitoring of asylum seekers who are declared inadmissible after travelling through safe countries and includes those selected for transfer to Rwanda.
+
+It applies to “individuals who arrive in the UK via unnecessary and dangerous routes”, including small boat crossings, and people deemed to be not complying with the tag can be taken back into detention or prosecuted.
+
+The unnamed asylum seeker was made to wear an electronic tag
+
+Official Home Office guidance states: “For individuals who are informed that they are to be removed under the inadmissibility policy, there may be an increased risk of absconding and less incentive to comply with any conditions of immigration bail than for those who are to have their asylum claims considered by the UK.
+
+“If individuals abscond or do not maintain contact with the Home Office, this presents difficulties in progressing their immigration case.”
+
+The claimant in the new case is an asylum seeker from Sudan, who says he was detained and tortured by the country’s security forces after attending an anti-government demonstration.
+
+He fled the country into neighbouring Libya but said he was then kidnapped by an armed militia and forced into labour to pay a ransom for his release.
+
+The man escaped, crossed the Mediterranean and journeyed through Italy and France before crossing the English Channel.
+
+He claimed asylum on arrival but was then held in immigration detention for two months and told he would be sent to Rwanda.
+
+The man said he was distressed by the decision, was temporarily unable to eat or sleep and had thoughts of self-harm and suicide.
+
+He fears that he could be forced back to Sudan, adding: “After all the problems and torture, I came to the UK, a country that observes human rights and is safe and peaceful. To come here and find myself in a detention centre was a shock.”
+
+New home secretary Suella Braverman has said it’s her ‘dream’ to send a flight to Rwanda (Getty)
+
+After being recognised as a potential victim of trafficking by the Home Office, the man was freed on immigration bail in July and fitted with an electronic tag recording his movements 24 hours a day.
+
+“I do not feel free as a result of having to wear the tag,” he said. “Although I have physically left the detention centre, I feel like I am still there.”
+
+The man, now living in a hotel, described a “continuous sense of being controlled and monitored”, adding: “It feels like a form of treatment suited to animals and not human beings.”
+
+He said he felt ashamed of the tag because it makes him “look like a criminal”, and its position and size means that he is unable to properly pray as a Muslim.
+
+He is accused of breaching his bail conditions twice but said the first incident was because he could not read an English letter telling him about a required appointment and the second was a dispute over how many hours the monitoring device must be charged.
+
+Following pre-action letters from solicitors, the Home Office said it would remove the man’s tag on Tuesday but he is pursuing the legal challenge against the wider policy.
+
+A Home Office spokesperson said they could not comment on legal proceedings but added: “We are determined to break the business model of the evil people smugglers and prevent people from making dangerous journeys across the Channel, risking their lives.
+
+“In the summer we launched a 12-month tagging pilot for individuals who arrive in the UK via illegal, unnecessary and dangerous routes as part of our wider work to tackle illegal migration, which remains ongoing.”

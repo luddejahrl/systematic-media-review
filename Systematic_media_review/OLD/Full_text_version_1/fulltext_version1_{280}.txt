@@ -1,0 +1,99 @@
+The internet lit up in late July when the first images of a pair of stars surrounded by ghostly dust shells was captured by the James Webb Space Telescope (JWST).
+
+While some space enthusiasts threw around theories about alien megastructures, astronomers dug into the physics.
+
+Now two new studies reveal the secrets of this eerily beautiful system, known as WR 140.
+
+"When I first saw this image, I was like, 'Oh, this can't be real. We messed up,'' said Ryan Lau of the National Science Foundation's NOIRLab.
+
+Dr Lau and his team had anticipated the stars would be surrounded by a single dust shell.
+
+But the JWST observations, detailed today in the journal Nature Astronomy, revealed more than 17 shells nested inside each other.
+
+"I was like, 'Wow, it's much better than we thought it was going to look like,'" he said.
+
+The image also contained some mysterious shapes like the diagonal "spear" of light, which some astronomers thought was a telescope error, said another of the study's co-authors, Peter Tuthill of the University of Sydney.
+
+"If you said, 'Is this a real or a fake web image?' I think you could have surveyed professionals and you could have wrong-footed a lot of them with it," he said.
+
+But as luck would have it, Professor Tuthill's student Yinuo Han had just developed a 3D model of WR 140 based on 20 years of data.
+
+Their model, also published today in a separate paper in the journal Nature, explained how dust rings in the system were sculpted, and proved the features in the stunning image were not illusions.
+
+A rare star in a rare dance
+
+WR 140 lies more than 5,000 light-years away in Cygnus, a prominent constellation in northern hemisphere skies.
+
+At its heart is one of the cosmos' most extreme type of stars — a Wolf-Rayet.
+
+These massive stars are very rare — there are about one in a billion stars in our galaxy. They are extremely bright compared to other stars because they are on the verge of exploding.
+
+"[Wolf-Rayets are] so luminous, they're almost flying apart under their own luminosity," Professor Tuthill said.
+
+They also pump out a lot of radiation and blast winds that contain elements such as carbon, which can be detected by infrared telescopes like the JWST.
+
+The fact that WR 140 pumps out dust at all makes it an enigma, said Professor Tuthill.
+
+"Everything about this star screams, 'I'm going to bake any dust into oblivion'."
+
+But Dr Han's modelling, based on high-resolution infrared data from the Keck Telescope in Hawaii, revealed WR 140 had a couple of tricks up its sleeve.
+
+So how are the dust shells created?
+
+This Wolf-Rayet is locked in a violent tango with a hot, blue cosmic titan known as an O-type star.
+
+But because its orbit isn't circular, the Wolf-Rayet only puffs out dust every eight years when it is near the closest point to its stellar companion, the O-type star.
+
+That means the dust shells seen in the JWST image were created in just 136 years.
+
+The dust is carried by stellar winds that crash into the winds from the other star in what effectively creates the cosmic equivalent of a cone-shaped storm front bent around the weaker O-type star.
+
+The storm front is twisted by the motion of the stars, spreading the plume of sooty dust out like a sprinkler.
+
+"The underlying maths is extremely simple, it's just a cone wrapped into a spiral," Professor Tuthill said.
+
+But while the geometry made sense, something didn't stack up, according to Dr Han, who is now at the University of Cambridge.
+
+Each dust shell seen in the JWST image extends to a distance beyond that of our Solar System.
+
+But the data in the study led by Dr Han showed that the dust was accelerating as it moved outwards.
+
+"It's not surprising to see [the dust shell] expanding really fast; it is surprising to see that it's expanding faster and faster," Dr Han said.
+
+This indicated the dust was being pushed into space by the action of star light.
+
+This phenomenon, known as radiation pressure, is well known but is very difficult to catch, and had never been directly detected before.
+
+Dr Han said it was possible to see the effect because the two stars were so bright — more than a million times the luminosity of the Sun — and pumped out so much energy.
+
+An almost perfect match
+
+After the JWST image was released, Dr Han ran the model, which at the time only had one dust shell, to see what would happen if it was repeated every eight years.
+
+It was almost identical to the image captured by the JWST.
+
+"I don't think anyone, not even Yinuo, anticipated how beautifully it would predict the accumulated vision of [the] nested shells," Professor Tuthill said.
+
+And it showed the strange "spear" of light was real.
+
+Dr Lau said the JWST team was surprised just how well the model worked.
+
+"When you have like such a new observatory like JWST … we almost don't know what we're going to see with it," he said.
+
+"So having this model was helpful to prove we understood what we were seeing and not just like, "Oh, it looks like there are 20 dust shells."
+
+What does that tell us about WR 140?
+
+Confirmation the dust rings exist tells us that despite their extreme nature, Wolf-Rayet stars could be important sources of elements that seed new stars and planets.
+
+"It tells us that not only can these systems form dust, but that the dust they form can survive," Dr Lau said.
+
+Orsola De Marco, an astronomer at Macquarie University who studies other kinds of star systems, said understanding how dust forms was key for astronomy.
+
+One of the big questions, she said, was where does interstellar dust that wasn't created in a supernova explosion come from?
+
+"There are lots of different stars that contribute dust to the interstellar medium," Professor De Marco said.
+
+But how much and what type of dust was created by each type of star, and how long it survived in the cosmos was a mystery.
+
+"Clearly Wolf-Rayet are part of the picture, perhaps even a very important part of the picture."

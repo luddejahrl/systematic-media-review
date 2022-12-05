@@ -1,0 +1,47 @@
+Trickstabs are special maneuvers used by Spies to backstab enemies that know they are a spy. There are several trickstabs that help achieve this goal. While trickstabs may be cool and flashy, they should only be used as a last resort, due to their reliance on the target failing to prepare for them.
+
+Tricking the Opponent [ edit ]
+
+Trickstabs are usually used only - and are most effective as - a last resort: they only work when the enemy is not seeing them coming, and failing the first try greatly reduces the chances of succeeding on subsequent trickstabs. Like a magician, the spy should pull the enemy's attention away from the trickstab. Revolvers are often used for this: shooting the enemy may make him think that the spy is not trying to use his knife at all. Being at low health also helps: players usually relax when they know that they only need a couple shots or less to kill their enemy.
+
+List of Trickstabs [ edit ]
+
+Stairstab [ edit ]
+
+When a Spy goes up an incline with someone chasing him, he can crouchjump over the target's head to get behind and land a stab. The method for this is generally to actually land ON the person whom they wish to stab's right or left shoulder while crouching, then turning left or right (turn left if on their right shoulder, and vice versa), and stabbing. Pioneered by SubtleArt, the stairstab rewards Spies who are aware of the map and their surroundings, although Stairstabs overall are usually not very effective in a competitive game, seeing as most players know better than to fall for such a trick.
+
+Like a stairstab, but instead of inclines, which are commonly used and thus easy to predict, the Spy jumps on props such as barrels and railings to get a height boost for the stab. Even the smallest height difference allows for a rampstab. For example, jumping onto and engie's teleporter provides enough extra height to land a successful rampstab. These stabs work much better than stairstabs, because even experienced players won't necessarily expect a spy to be able to jump over them if not on an obvious incline.
+
+Ghost Stab [ edit ]
+
+If someone is aware of the jumpstab, jump on their heads, and when they rotate 180 degrees to "catch" you, strafe the other way and stab them.
+
+Understab [ edit ]
+
+The Spy leads someone off the high ground, then strafes under and stabs the target. Can also be done against explosive jumpers. This can be done because the angle for a successful backstab is exactly 180 degrees, no matter the height. The concept for this is the same as the stairstab, except in reverse.
+
+Cornerstab [ edit ]
+
+The Spy leads someone around a corner, then doubles back around the corner to get at their side and stabs them. A beginner's mistake in this trickstab is not waiting long enough. Depending on the target and on how far away they are from the corner the spy leads them around, it may take from immediately to a few seconds. The rule of thumb is to wait about one second unless they are practically right behind the spy.
+
+Blindstab [ edit ]
+
+Same as a Stairstab or Jumpstab, but the Spy leads the target around a corner as well, which makes the target unable to see the Spy jumping at him. Due to the threat of this, the target may wait around the corner to kill the Spy, enabling him to escape.
+
+Matador Stab [ edit ]
+
+The Spy strafes one way to draw the target into looking that way to not expose his backstab radius, then strafes the other way and stabs him. The concept of this is similar to a cornerstab. Oftentimes, one can imagine this as a cornerstab without a corner. The spy first strafes right around their imaginary corner, then back.
+
+Reverse-Matador Stab [ edit ]
+
+When the target suspects a matador stab, keep strafing in the original direction to get the stab.
+
+Drop Stab [ edit ]
+
+Dropping from a great height and if needed airstrafing to get behind the target and stab them before touching the ground. In contrast to the unreliability of most trickstabs, this is the hardest kind of stab to see coming (and the only way to work also). This stab is best done from a reasonably high height, for example, dropping from badwaters' roof into the cart capturing the 2nd point. This is perhaps the most reliable kind of trickstab, due to its nature which means that it is hard for it to be seen ahead of time.
+
+This stab can be practiced on tr_walkway_rc2.
+
+Circle Strafe Stab [ edit ]
+
+The process of strafing in a circle to move around the enemy and stab. An enemy that is strafing would not fall for a Matador stab, thus Circle Strafing is a plan B. Circle Strafing is easy to predict but can be hard to track the Spy.

@@ -1,0 +1,19 @@
+Aba Panu 8°16’55.83"N, 3°34’1.72"E
+
+Oyo, Nigeria
+
+Confirmed fall: 19 April 2018
+
+Classification: Ordinary chondrite (L3)
+
+History: On the afternoon of 19 April 2018, a large fireball detonated over the Nigerian state of Oyo. This fireball was recorded by NASAs Center for Near Earth Object Studies (CNEOS) as event 2018-04-19 14:02:27. The meteoroid entered at 20.9 km/s and detonated at an altitude of 30 km at 7.5’N, 3.6’E releasing a calculated total impact energy of 0.23 kt. Many stones fell between the villages of Ipapo (8°7’50.84"N, 3°30’34.58"E) and Tede to the north (8°33’21.49"N, 3°26’46.31"E). Stone were collected at multiple locations. The meteorite is named for the village of Aba Panu near the center of the strewn-field: multiple kg-sized stones were found in and around this village. Current total known weight is near 160 kg.
+
+Physical characteristics: The stones are hard, range from 30 g to near 40 kg, rounded with broad poorly developed regmaglypts, and largely lacking fusion crust. Fusion crust is occasionally preserved within the shallow regmaglypts. Most stones are greyish green and show areas of rounded to angular light-colored clasts. Largest clast (5 × 2 cm) is angular, fine-grained, and achondritic. Observations from multiple slices show that clasts constitute roughly <10 areal%.
+
+Petrography: Visually the cut surfaces are dominated by a gray matrix, studded with well-developed chondrules and chondrule fragments. Some chondrules to 4 mm but the majority are 0.1 to 1 mm across. Observations on an 8 × 7 cm slab shows the following clasts: L6 (3 × 1 cm); L5 (1.5 × 1 cm); and sub-rounded 1-cm dark clast with sparse 200 micron chondrules. Shock veins are rare. Metal and sulfide occurs as: fined grained spheres in the matrix; armoring chondrules; and, occasional lumps to 5 mm. Petrographic observations show a range of chondrule types dominated by PO, POP, RP, PP, and BO. Particularly evident in thin section are BO and PO chondrules with reddish purple (in plain polarized light) glass that is isotropic under crossed polars. The silicates are extensively shocked with olivine showing mosaicism and PDFs. SEM observations show that much of the metal/sulfide in the matrix occurs as fine-droplets, veins, and melt pods. Large Fe-Ni grains are polycrystalline with each crystal showing a kamacite core, dark-etched martensitic inner rim, and outer Ni-rich rim. Troilite is dominantly single crystal, and occasionally polycrystalline. Sparse chromite grains.
+
+Geochemistry: (L. Garvie, ASU) Olivine Fa 24.3±5.7 , n=18, range Fa 7.5-32.8. Mean Cr 2 O 3 = 0.08, sigma-Cr 2 O 3 = 0.07, range 0.02 to 0.3. FeO/MnO=55.8±12.6. Low Ca, pyroxene Fs 17.0±11.6 Wo 2.0±1.9 range Fs 2.4-49.2 Wo 0.3-6.0 , n=17. High Ca pyroxene Fs 8.7 Wo 49.2 , n=1. Reddish purple, isotropic glass within BO and PO chondrules Or 1.4±0.8 Ab 87.6±4.8 , n=6, TiO 2 to 1 wt%. Oxygen isotopes (K. Ziegler, UNM): analyses of three subsamples by laser fluorination gave, respectively, δ17O = 3.724, 3.625, 3.684; δ18O = 5.160, 4.980, 5.089; Δ17O = 1.000, 0.996, 0.997 per mil.
+
+Classification: Geochemistry and oxygen isotopic data consistent with L chondrite. Estimated petrologic type 3.6 based on Fa and Fs spread, and Cr 2 O 3 content in olivine. L3, S4, W0.
+
+Specimens: Michael Farmer and Moritz Karl - 50 kg, Eric Twelker 7.74 kg, and ASU 242 g. Based on photographic evidence, it is estimated that the Nigerian government collected on the order of 100 kg of stones, though this mass is uncertain. Given the size of the fall and area of the fall, the total mass is conservatively given as 160 kg.

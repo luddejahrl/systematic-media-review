@@ -1,0 +1,7 @@
+In an ESG research it was found that employees were spending an average of six hours per week doing work-related tasks outside of office hours. This shows that even before the pandemic hit, the lines between office and home life had begun to blur.
+
+As this lead to a disturbance in the enterprise architecture, interest in zero trust strategies has exploded.
+
+This Whitepaper helps you understand how Zero trust should be viewed as a strategy or framework on which a security program can be built.
+
+Download this Whitepaper and learn:

@@ -1,0 +1,35 @@
+1 team hasn't moved Adana Demirspor 9 5 3 1 17 10 7 18 D Drew 1 - 1 against Hatayspor on September 4th 2022. W Won 3 - 2 against Trabzonspor on September 12th 2022. W Won 3 - 0 against Antalyaspor on September 17th 2022. D Drew 0 - 0 against Galatasaray on October 1st 2022. D Drew 1 - 1 against Gaziantep FK on October 7th 2022.
+
+2 team hasn't moved Besiktas 9 5 3 1 17 10 7 18 W Won 3 - 2 against Ankaragücü on September 4th 2022. L Lost 0 - 1 against Istanbul Basaksehir on September 12th 2022. D Drew 2 - 2 against Istanbulspor on September 17th 2022. D Drew 0 - 0 against Fenerbahçe on October 2nd 2022. W Won 1 - 0 against Giresunspor on October 8th 2022.
+
+3 team hasn't moved Konyaspor 9 5 3 1 10 3 7 18 W Won 1 - 0 against Giresunspor on September 3rd 2022. W Won 1 - 0 against Hatayspor on September 10th 2022. L Lost 1 - 2 against Galatasaray on September 16th 2022. W Won 1 - 0 against Umraniyespor on October 2nd 2022. D Drew 1 - 1 against Antalyaspor on October 8th 2022.
+
+4 team hasn't moved Fenerbahçe 8 5 2 1 25 10 15 17 L Lost 0 - 1 against Konyaspor on August 29th 2022. W Won 2 - 0 against Kayserispor on September 3rd 2022. W Won 5 - 0 against Alanyaspor on September 18th 2022. D Drew 0 - 0 against Besiktas on October 2nd 2022. W Won 5 - 4 against Fatih Karagümrük on October 9th 2022.
+
+5 team hasn't moved Istanbul Basaksehir 8 5 2 1 11 3 8 17 W Won 2 - 0 against Alanyaspor on September 3rd 2022. W Won 1 - 0 against Besiktas on September 12th 2022. D Drew 0 - 0 against Fatih Karagümrük on September 18th 2022. W Won 2 - 1 against Ankaragücü on October 1st 2022. L Lost 0 - 2 against Sivasspor on October 10th 2022.
+
+6 team hasn't moved Galatasaray 8 5 2 1 9 5 4 17 D Drew 0 - 0 against Trabzonspor on August 28th 2022. W Won 2 - 1 against Gaziantep FK on September 5th 2022. W Won 3 - 2 against Kasimpasa on September 11th 2022. W Won 2 - 1 against Konyaspor on September 16th 2022. D Drew 0 - 0 against Adana Demirspor on October 1st 2022.
+
+7 team hasn't moved Trabzonspor 9 5 2 2 13 11 2 17 W Won 1 - 0 against Umraniyespor on September 2nd 2022. L Lost 2 - 3 against Adana Demirspor on September 12th 2022. W Won 3 - 2 against Gaziantep FK on September 18th 2022. W Won 2 - 1 against Kayserispor on October 1st 2022. D Drew 0 - 0 against Kasimpasa on October 10th 2022.
+
+8 team hasn't moved Kayserispor 9 4 1 4 12 9 3 13 L Lost 0 - 2 against Fenerbahçe on September 3rd 2022. W Won 1 - 0 against Antalyaspor on September 11th 2022. W Won 4 - 0 against Hatayspor on September 16th 2022. L Lost 1 - 2 against Trabzonspor on October 1st 2022. D Drew 2 - 2 against Umraniyespor on October 9th 2022.
+
+9 team hasn't moved Kasimpasa 9 4 1 4 8 15 -7 13 W Won 2 - 0 against Antalyaspor on September 4th 2022. L Lost 2 - 3 against Galatasaray on September 11th 2022. W Won 2 - 1 against Umraniyespor on September 17th 2022. W Won 1 - 0 against Gaziantep FK on October 1st 2022. D Drew 0 - 0 against Trabzonspor on October 10th 2022.
+
+10 team hasn't moved Gaziantep FK 9 3 3 3 14 12 2 12 L Lost 1 - 2 against Galatasaray on September 5th 2022. D Drew 1 - 1 against Umraniyespor on September 11th 2022. L Lost 2 - 3 against Trabzonspor on September 18th 2022. L Lost 0 - 1 against Kasimpasa on October 1st 2022. D Drew 1 - 1 against Adana Demirspor on October 7th 2022.
+
+11 team hasn't moved Alanyaspor 9 2 3 4 11 17 -6 9 L Lost 0 - 2 against Istanbul Basaksehir on September 3rd 2022. W Won 2 - 1 against Ankaragücü on September 9th 2022. L Lost 0 - 5 against Fenerbahçe on September 18th 2022. D Drew 1 - 1 against Giresunspor on October 2nd 2022. L Lost 0 - 1 against Hatayspor on October 9th 2022.
+
+12 team hasn't moved Giresunspor 8 2 2 4 6 10 -4 8 L Lost 0 - 3 against Kayserispor on August 28th 2022. L Lost 0 - 1 against Konyaspor on September 3rd 2022. D Drew 1 - 1 against Fatih Karagümrük on September 10th 2022. D Drew 1 - 1 against Alanyaspor on October 2nd 2022. L Lost 0 - 1 against Besiktas on October 8th 2022.
+
+13 team hasn't moved Istanbulspor 8 2 2 4 7 13 -6 8 W Won 1 - 0 against Alanyaspor on August 27th 2022. D Drew 1 - 1 against Sivasspor on September 11th 2022. D Drew 2 - 2 against Besiktas on September 17th 2022. W Won 2 - 1 against Fatih Karagümrük on October 3rd 2022. L Lost 1 - 2 against Ankaragücü on October 8th 2022.
+
+14 team hasn't moved Ankaragücü 8 2 1 5 9 14 -5 7 L Lost 2 - 3 against Besiktas on September 4th 2022. L Lost 1 - 2 against Alanyaspor on September 9th 2022. W Won 2 - 1 against Sivasspor on September 18th 2022. L Lost 1 - 2 against Istanbul Basaksehir on October 1st 2022. W Won 2 - 1 against Istanbulspor on October 8th 2022.
+
+15 team hasn't moved Sivasspor 9 1 4 4 8 13 -5 7 D Drew 0 - 0 against Fatih Karagümrük on September 3rd 2022. D Drew 1 - 1 against Istanbulspor on September 11th 2022. L Lost 1 - 2 against Ankaragücü on September 18th 2022. L Lost 1 - 2 against Hatayspor on October 2nd 2022. W Won 2 - 0 against Istanbul Basaksehir on October 10th 2022.
+
+16 team hasn't moved Antalyaspor 8 2 1 5 9 15 -6 7 L Lost 2 - 5 against Gaziantep FK on August 26th 2022. L Lost 0 - 2 against Kasimpasa on September 4th 2022. L Lost 0 - 1 against Kayserispor on September 11th 2022. L Lost 0 - 3 against Adana Demirspor on September 17th 2022. D Drew 1 - 1 against Konyaspor on October 8th 2022.
+
+17 team hasn't moved Hatayspor 8 2 1 5 5 11 -6 7 D Drew 1 - 1 against Adana Demirspor on September 4th 2022. L Lost 0 - 1 against Konyaspor on September 10th 2022. L Lost 0 - 4 against Kayserispor on September 16th 2022. W Won 2 - 1 against Sivasspor on October 2nd 2022. W Won 1 - 0 against Alanyaspor on October 9th 2022.
+
+18 team hasn't moved Fatih Karagümrük 8 1 3 4 13 17 -4 6 D Drew 0 - 0 against Sivasspor on September 3rd 2022. D Drew 1 - 1 against Giresunspor on September 10th 2022. D Drew 0 - 0 against Istanbul Basaksehir on September 18th 2022. L Lost 1 - 2 against Istanbulspor on October 3rd 2022. L Lost 4 - 5 against Fenerbahçe on October 9th 2022.

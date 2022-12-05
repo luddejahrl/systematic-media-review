@@ -1,0 +1,89 @@
+For the first time, researchers at Umeå University can now show how the dreaded poliovirus behaves when it takes over an infected cell and tricks the cell into producing new virus particles. Polio was thought to be almost eradicated, but infection has now been rediscovered in London and New York.
+
+
+
+
+
+“We now have a completely different understanding of how the virus acts and thus better opportunities for research to perhaps find new ways to curb the virus' progress in the future,” says Lars-Anders Carlson at the Department of Medical Chemistry and Biophysics at Umeå University.
+
+
+
+
+
+The dreaded poliovirus belongs to the same large family, enteroviruses, as several common colds. It has been known for some time that enteroviruses drastically rearrange the inside of infected, but it has not been known exactly how, simply because technology has not allowed us to see so deeply into the cells. Thanks to the advanced cryo-electron microscope in Umeå, researchers have for the first time been able to take three-dimensional images of how the poliovirus forms and takes over human cells.
+
+
+
+
+
+“We were surprised to see how the virus transforms processes in the cell that are otherwise used to destroy viruses to produce new viruses instead," says Lars-Anders Carlson.
+
+
+
+
+
+The researchers were able to identify the site in the cell where the poliovirus forms new virus particles, by seeing sites with half-assembled viruses. Surprisingly, this "virus factory" in the cell turned out to be surfaces in the cell that resembled an otherwise normal process in the cell, autophagy. Autophagy is a relatively recently discovered process in cells that was subject of the 2016 Nobel Prize. Normally, autophagy serves to break down particles that the cell wants to get rid of, such as virus particles. But the poliovirus manages to reprogram this defence mechanism against viruses to produce more virus instead.
+
+
+
+
+
+Important proteins
+
+
+
+
+
+The researchers found that certain proteins are particularly important. The VSP34 protein is used by the virus to build new virus particles. When the researchers inhibited VSP34, they could see that the virus could barely assemble whole viruses, but mostly only half virus particles. Another important protein is called ULK1, which slows down the production of viruses. The researchers could see that the amount of virus exploded when this protein was inhibited. This confirms the theory that the poliovirus breaks down this "brake".
+
+
+
+
+
+Once the virus has multiplied in the cell, the particles must be released to infect new cells. This is done by releasing the particles in small packets, called vesicles. Here, the researchers also made a surprising discovery; a careful sorting of what is packed into the vesicles takes place. Only viruses that are correctly formed and carry the genetic material of the virus are placed in the vesicles, while empty virus particles are not allowed in. In this way, the virus may spread more efficiently.
+
+
+
+
+
+Future antivirals
+
+
+
+
+
+“The new knowledge we are contributing about the role of autophagy in virus formation may provide new insights for the development of future antivirals that could complement vaccines. We have good reason to believe that our findings are valid for the large group of viruses to which poliovirus belongs, enteroviruses. There is no vaccine against most enteroviruses, but an antiviral that acts on the autophagy system could be effective against many of them. However, there is still a long way to go,' says Lars-Anders Carlson.
+
+
+
+
+
+Polio is rightly a dreaded disease that can cause paralysis and death. The poliovirus starts in the intestines but can then attack the spinal cord. There is still no cure for the disease, but the only way to prevent it is to be vaccinated.
+
+
+
+
+
+Almost eliminated
+
+
+
+
+
+In much of the world, vaccination campaigns have been so successful that the disease is considered virtually eliminated. However, polio has persisted in some countries in Asia, Africa and the Middle East. The poliovirus is mainly transmitted through faeces. In 2022, the virus was again detected in sewage in New York and London. In addition, New York has had the first new case in ten years of a person getting paralysed due to polio infection.
+
+
+
+
+
+The reappearance of polio in developed countries may be partly due to a decline in vaccination rates, as the disease was considered almost eradicated, and also due to increasing resistance to vaccination.
+
+
+
+
+
+Reference: Dahmane S, Kerviel A, Morado DR, et al. Membrane-assisted assembly and selective secretory autophagy of enteroviruses. Nat Commun. 2022;13(1):5986. doi:10.1038/s41467-022-33483-7
+
+
+
+This article has been republished from the following materials. Note: material may have been edited for length and content. For further information, please contact the cited source.

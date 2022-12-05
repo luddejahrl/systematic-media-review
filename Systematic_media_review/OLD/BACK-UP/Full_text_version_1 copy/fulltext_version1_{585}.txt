@@ -1,0 +1,39 @@
+The proximity sensor is one of the oldest electronic components used in automation to detect objects. However, early designs of proximity switches required mechanical contact, which became unreliable after several switching cycles or operations. In addition, these conventional switches had high power requirements, making them unusable in explosion-hazardous areas.
+
+Non-contact proximity sensors were developed to mitigate these challenges. For instance, the first non-contact proximity sensor was developed by Wilfried Gehl and his colleague Walter Pepperl in 1958. This sensor allowed them to detect metal targets without contact while offering better accuracy, repeatability and longer service life than conventional switches.
+
+Proximity sensors have advanced over the years. For instance, they come in different types, such as the inductive proximity sensor, capacitive proximity sensor and magnetic proximity sensor. These sensors have a unique working principle and suitability for different applications.
+
+Inductive proximity sensor
+
+An inductive proximity sensor typically features an oscillator whose windings constitute the sensing face and generates an electromagnetic field. The electromagnetic field is generated within the vicinity of the sensing face to create a detection zone.
+
+Therefore, when a metal target enters the electromagnetic field, the inductive nature of the metal changes the field’s properties and causes eddy currents to be generated on the metal target. As a result, the switch operates, producing a signal. Likewise, the sensor switches off when the target moves away from the detection zone.
+
+Inductive proximity sensors offer several advantages, such as high accuracy, fast response and resistance to harsh industrial environments. However, these sensors are usually only ideal for detecting metal targets. Nevertheless, engineers will find them useful in monitoring machine parts and counting metal parts in automotive assembly lines.
+
+(Learn more about inductive proximity sensors on GlobalSpec.com)
+
+Capacitive proximity sensors
+
+Capacitive proximity sensors are quite similar to inductive proximity sensors in design. However, unlike inductive proximity sensors, the capacitive proximity sensors operate by detecting the changes in capacitance (or electrical charge) when the target approaches the sensor.
+
+To better understand how these sensors work, consider a capacitor composed of two parallel plates (or electrodes) separated by a dielectric. The dielectric (which can be made of plastic, paper, ceramic or air) simply increases the ability of the capacitor to hold electric charges.
+
+The setup of a capacitive proximity sensor is quite similar to this capacitor. For instance, the sensor serves as one of the capacitor electrodes while the target serves as the other electrode. The air gap between the sensor and the target serves as the dielectric.
+
+Capacitive proximity sensors rely on the changes in capacitance to detect a target. This mode of operation makes them more flexible than their inductive sensor counterparts. For instance, capacitive proximity sensors can detect metallic, non-metallic and liquid targets at a sensing distance between 4 mm and 45 mm. They are also highly accurate and repeatable while offering a long operational lifespan. However, elevated humidity and moisture might negatively influence a capacitive proximity sensor’s performance.
+
+(Learn more about capacitive proximity sensors on GlobalSpec.com)
+
+Magnetic proximity sensors
+
+Magnetic proximity sensors detect a target by using an external magnetic field. A typical magnetic proximity sensor features two ferromagnetic reeds (or contact blades) sealed in a glass casing filled with inert gas. When this casing is approached by the target (usually a permanent magnet), the contact ends attract each other and make contact.
+
+As a result, magnetic proximity switches are ideal for detecting ferromagnetic targets. Engineers will find them useful in detecting the opening of a door in security alarm systems. In addition, their glass tube encasing ensures they are protected from corrosion.
+
+(Learn more about magnetic proximity sensors on GlobalSpec.com)
+
+Conclusion
+
+Proximity sensors can meet the requirements of different applications so long as they are correctly specified and sized. Therefore, engineers are advised to reach out to proximity sensor manufacturers to discuss their application needs.

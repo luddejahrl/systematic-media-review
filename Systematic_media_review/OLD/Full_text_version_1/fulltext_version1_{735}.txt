@@ -1,0 +1,19 @@
+Almahata Sitta 20°43.04'N, 32°30.58'E
+
+(“Station 6” in Arabic), Nahr an Nil, Nubian Desert, Sudan
+
+Fall: 7 October 2008, 05:46 h local time (UT+3)
+
+Achondrite (ureilite, polymict, anomalous)
+
+History: On October 6, 2008, a small asteroid called 2008 TC 3 was discovered by the automated Catalina Sky Survey 1.5 m telescope at Mount Lemmon, Tucson, Arizona, and found to be on a collision course with Earth. Numerous astronomical observatories followed the object until it entered the Earth’s umbra at Oct. 7.076 UTC the next day. The astrometric position of 295 observations of 2008 TC 3 over the period Oct. 6.278 to Oct. 7.063 was used to calculate the approach trajectory over the impact location in northern Sudan. The object exploded at a high ~37 km altitude over the Nubian Desert, and as a result the meteorites are spread over a large area. A search was organized by the University of Khartoum on Dec. 2–9, led by P. Jenniskens (SETI Institute) and M. H. Shaddad (Khartoum).
+
+Physical characteristics: During the first expedition, 15 meteorites were found along the approach path of the asteroid, for a total weight of 563 g. A second field expedition, on Dec. 25–30, added 37 meteorites, for a total recovered weight of 3.95 kg, spread over an area of 28 × 5 km. The meteorites are dark, thinly crusted, and roundish in shape, ranging in size from 1–10 cm.
+
+Petrography (M. Zolensky, JSC, and A. Steele, CIW): The sample is a fine-grained, fragmental breccia with subrounded mineral fragments and olivine aggregates embedded in a cataclastic matrix of ureilitic material. Mineral fragments include polycrystalline olivine, low-Ca pyroxene, pigeonite and carbon-rich aggregates up to 0.5 mm in maximum dimension, kamacite, and troilite. The examined samples have considerable porosity; the pore walls are commonly coated by anhedral to euhedral crystals of low-Ca pyroxene (Fs 2 Wo 3 ) and olivine (Fa 12–14 ), and in some instances spherules of kamacite and botryoidal masses of troilite. Most olivine and pyroxene aggregates have interstitial silicates with Si-content that increases adjacent to metal grains. Some clasts consist of rounded pyroxene grains containing an abundant nanophase Fe-rich mineral. Aggregates of carbonaceous material are common and measure up to 0.5 mm—these contain fine-grained troilite and kamacite, the latter containing Si and P. The major carbon phase is graphite. Shock effects are not apparent.
+
+Mineral compositions and geochemistry: Low–Ca pyroxene: Fs 2 Wo 5 -Fs 17 Wo 4 , Cr 2 O 3 = 0.33–1.02 wt%; pigeonite: Fs 15 Wo 5 -Fs 18 Wo 11 , Cr 2 O 3 = 0.72–1.11 wt%), olivine (Fa 8–15 , CaO = 0.15–0.51 wt%, Cr 2 O 3 = 0.03– 1.58 wt%). Kamacite is Fe 0.92 Ni 0.08 -Fe 0.96 Ni 0.04 . Troilite contains up to 4.3 wt% Cr. Mineral grains exhibit no zoning.
+
+Classification: Achondrite (ureilite, polymict, anomalous). Anomalous features include lack of zoning of olivine, large size of carbonaceous aggregates, and overall fine-grained texture.
+
+Type specimens: Samples with masses ranging from a few to a few hundred grams for a total of 3.95 kg are on deposit at Khartoum.

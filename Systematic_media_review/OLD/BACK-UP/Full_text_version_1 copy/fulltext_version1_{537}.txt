@@ -1,0 +1,9 @@
+PeerTube
+
+JavaScript required
+
+It seems JavaScript is either blocked or disabled in your web browser. We totally get that. However, this page will not work without it.
+
+If you are concerned about the security and privacy (or lack thereof) of JavaScript web applications, you might want to review the source code of the instance you are trying to access, or look for security audits.
+
+Your options

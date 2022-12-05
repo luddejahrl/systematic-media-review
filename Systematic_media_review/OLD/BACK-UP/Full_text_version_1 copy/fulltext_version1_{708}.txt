@@ -1,0 +1,19 @@
+(available to logged-in users)
+
+Use for callsigns, aliases, prefixes and suffixes. Use a question mark (?) to match a single wildcard character or star (*) to match multiple characters. For example, try with AA* for prefixes, *ZZ for suffixes, or *XX* or even inside matches like AA?BQ.
+
+A random text search. Use to find names, addresses, cities, towns, zip codes, etc.. Example: try JOHN SMITH FL. Wildcard (*) characters are not used. Searches all listings, including both USA and DX. For best results, use the minumum number of words. Leave out middle initials, street types or any other "noise" words. No punctuation is considered. You may need to try different spellings and abbreviations to find what you want. Note: a maximum of 5000 records will be returned.
+
+A random text search. Finds words that members mention in their biographies. Try anything. You'll be surprised at what you find. The biography index is updated once per day. When you enter something new into your own bio, it won't be searchable until tomorrow.
+
+Enter a county name and optionally, a comma followed by a 2-letter state code. For example, use 'LEE, FL' for Lee County, Florida. For a list of all the counties in a given state, enter only the two-letter state code.
+
+Enter a 4 to 6 character Maidenhead Grid Square, e.g. DM43bq. Also accepts question mark (?) and star (*) wildcard match characters.
+
+Choose a DXCC Entity (country) to list. Note: USA is not available as a choice here.
+
+All punctuation is ignored and, upper vs lower case characters make no difference.
+
+An alias can be considered a "nickname", previous callsign, etc.. These are not offical but rather input by the members. The QRZ staff may remove aliases that we consider abusive or unrelated.
+
+Check out the Site Menu for more choices.

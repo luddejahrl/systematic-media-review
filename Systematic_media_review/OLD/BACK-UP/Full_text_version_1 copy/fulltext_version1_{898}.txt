@@ -1,0 +1,1 @@
+This menu is keyboard accessible. To open a menu item's submenu, press the space bar. To close a submenu press the escape key.

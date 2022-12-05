@@ -1,0 +1,21 @@
+I have long said that INSA are a bunch of incompetent, nepotistic cadres who make up for in arrogance what they lack in skills. A number of their servers have 0-day exploits which have yet to be patched and they know nothing about it.
+
+
+
+They are what we call in the industry, "script kiddies." Their only saving grace is that their enemies are equally incompetent so there is very little chance they're going to be attacked.
+
+
+
+It's no secret people in their ranks are promoted based on their ethnicity, not their skills. I mean, they don't even try to be subtle about it. Just look at the email interactions between them and the Hacking Team. What are the names of the two people in charge of INSA's communications with the organization? Seblewoin Tsegaye and Biniam Tewolde.
+
+
+
+I mean, can it get any more obvious than that? lol
+
+
+
+We were discussing with a buddy of mine some years back about an Ethiopian created virus called "dula" which was going around and infecting machines. He was lecturing at AAU at the time and they had a competition for someone who can write an antivirus program to get rid of this virus. He wrote a lightweight antivirus program that was just a few KB's which was effective against not just the dula virus but 39 other viruses, for a total of 40.
+
+
+
+These idiots at INSA built a whopping 34 MB application built on Microsoft's .Net framework that removes only the dula virus and nothing else. It was pathetic. No self respecting computer scientist would ever work there.

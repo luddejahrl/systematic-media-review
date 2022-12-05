@@ -1,0 +1,43 @@
+Laser Induced Breakdown Spectroscopy or LIBS is an analytical technique that's been used in laboratories for many years. Most handheld LIBS analyzers are used for fast sorting of alloys in scrap yards, and alloy identification and analysis in various applications within the metals industry.
+
+How does LIBS work?
+
+During LIBS analysis, a focused pulsed laser hits the sample removing a very small amount of material from the surface. The sample is hit by thousands of pulses during a typical one-second measurement. The material is heated up to and exceeding 10,000 degrees Celsius. The temperature is so high that the atoms actually break up and form a plasma.
+
+Despite these high temperatures, the sample does not get hot to the touch during analysis, and so it can be held in your hand safely during measurement.
+
+What is happening within the atoms?
+
+When the high power pulsed laser hits the sample, the electrons in the outer atoms’ outer shells are ejected. Because electrons in the outer shells are shielded by the inner shell electrons, they aren’t strongly drawn by the nucleus.
+
+This means less energy is needed to eject electrons from the outer shells.
+
+The ejected electrons create a vacancy, making the atom unstable. When the pulse stops, the plasma starts to cool down and the vacancy is filled by electrons cascading down from the outer electron shells. The excess energy released when the electrons move between two energy levels or shells is emitted in the form of element specific light.
+
+For a typical metallic sample containing iron, manganese, chromium, nickel, vanadium, and so on, each element emits many wavelengths leading to a spectrum of up to thousands of peaks.
+
+The wavelengths of light are collected through a fibre optic cable and then processed by the spectrometer.
+
+Each element is associated with a specific spectral peak. LIBS spectra are quite complex with potentially hundreds or even thousands of lines for each element.
+
+The concentration of the element is calculated from the intensity of the spectrum peak. Then an advanced algorithm is used to identify the sample type and calculate the concentrations.
+
+Why do people choose the handheld LIBS technique?
+
+It’s one of the fastest analytical technologies available today to identify and analyze metal alloys.
+
+It takes just one second to measure virtually any alloy including aluminium alloys. That's up to 20 times faster than handheld XRF.
+
+A LIBS analyzer is very robust because the detector is typically protected by sapphire glass, one of the hardest materials known today. So you can safely measure sharp and pointy objects, including turnings and shavings.
+
+It’s also very easy to use. Just point, shoot and read the result from the screen.
+
+The LIBS technique is virtually non-destructive. Following a LIBS analysis, the tiny burn spot left is so small it can be difficult to see with the bare eye.
+
+From a regulatory and licensing point of view, much less is required from the user than, say, for XRF. Typically, no expensive licenses or time-consuming training classes are needed. However, it’s important to check your local legislation concerning issues such as the use of safety goggles. We strongly recommend using safety goggles when operating a Class 3B laser device.
+
+LIBS is an excellent alloy identification tool which can also deliver a good chemistry when required.
+
+Find out more about our range of LIBS analyzers or book a demo.
+
+Share this blog

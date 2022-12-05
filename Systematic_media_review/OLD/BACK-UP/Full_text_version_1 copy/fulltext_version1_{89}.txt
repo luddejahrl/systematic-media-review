@@ -1,0 +1,33 @@
+A customization indicates functionality and configurations added to a Quest® product that are not provided as part of the standard generally available product release and, as such, would be outside the scope of the support and maintenance services provided herein. Customizations can include new or modified scripts used within or alongside our products as well as additional functionality,such as custom reports, dashboards,rules and automated actions, developed by you, your partners or our services organization.
+
+
+
+Support and Customizations
+
+
+
+Technical support does not perform or maintain customizations. The design and development of customizations to our products is your responsibility. Assistance from technical support is limited to helping ensure that the product’s functionality, which enables the addition of customizations, is functioning as expected. Alternatively, you may obtain guidance through product-specific support sites or the Support Portal Knowledge Base.
+
+
+
+Advanced Assistance
+
+
+
+If more thorough and detailed assistance is needed to design and develop customizations, we recommend that you engage our Quest Services organization or fully certified partners to assist. Their expertise in designing customized solutions will ensure that you receive maximum value and product adoption. In addition to providing post-implementation expert services, Quest Services also offers a variety of prepackaged customizations for products that may meet your specific requirements
+
+
+
+Educational Services
+
+
+
+We recommend that you obtain appropriate product training before attempting to design, develop and implement any customization to our products. Our training courses will equip you with the necessary knowledge and ability to design and implement effective changes to our products. For more details on the training services available, refer to the Quest Educational Services section.
+
+
+
+Maintaining Customizations
+
+
+
+Careful consideration should be given to all customizations during future migration or upgrade exercises to new product or platform versions. Customizations could inhibit the upgrade itself and may require a level of rework to continue functioning properly. Technical support does not take ownership for any customizations. We strongly encourage you to document and maintain records on any implemented customization work. These records can be useful in determining whether problems are caused by customization or are a defect in the core product.

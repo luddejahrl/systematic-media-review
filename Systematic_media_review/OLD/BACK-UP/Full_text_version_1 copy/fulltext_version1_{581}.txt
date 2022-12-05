@@ -1,0 +1,1 @@
+This site uses Cascading Style Sheets to present information. Therefore, it may not display properly when disabled.

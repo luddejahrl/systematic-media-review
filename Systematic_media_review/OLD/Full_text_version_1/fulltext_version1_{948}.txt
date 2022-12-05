@@ -1,0 +1,47 @@
+analysis
+
+As evidence grows of drones being used by terrorists and other criminals, governments should consider regulating the industry.
+
+Drones have for some time been used by regular armed forces on Africa's battlefields, such as in Ethiopia and Mali. But now they're increasingly being deployed by terrorists - sparking a global sense of urgency.
+
+At the end of October, the United Nations (UN) Security Council Counter-Terrorism Committee will host a special meeting in India on countering the use of new technologies for terrorism. Drones or unmanned aerial systems (UAS) have been identified as one of the key terrorist threats by the meeting's organisers. Other risks are disinformation, the misuse of social media, and new payment technologies used by violent extremists.
+
+Drones are by and large a force for good, for example in delivering medicines to hard-to-reach parts of Africa. But their widespread availability, increased range and growing sophistication in terms of payload (what they can carry) have seen an expansion in their applications.
+
+The hobbyist drone market has grown rapidly, with global sales increasing from US$14 billion in 2018 to a projected US$43 billion in 2024, according to Drone Industry Insights. South Africa represents the biggest market in Africa, particularly for aerial technology used in the mining and agricultural sectors. This democratisation of relatively affordable technology means that UAS can be used for nefarious ends both in wartime and peace.
+
+Drones have been identified as a key terrorist threat by the UN Security Council
+
+The Ukraine-Russian war has underscored the significance of the new drone battlespace with an arms race in production and acquisition underway. But drones can also be bought, adapted and used to disrupt critical infrastructure such as airports, energy plants and communications networks.
+
+As African governments assess the risks of cyber attacks on critical infrastructure such as on Transnet in South Africa in 2021, they should also consider the unintended consequences of drone proliferation.
+
+The continent has yet to witness a major installation being targeted by a UAS. But there is growing evidence of drones being weaponised by violent extremists and transnational criminal networks, either as a surveillance tool or as part of their intelligence and reconnaissance operations. As ISS Today has previously reported, armed groups such as al-Shabaab in Somalia and insurgents in the Democratic Republic of the Congo and Mozambique are applying the technology in combat.
+
+UN Security Council Resolution 2617 recognises the increasing misuse of UAS globally, including 'the misuse of unmanned aerial systems by terrorists to conduct attacks against, and incursions into, restricted commercial and government infrastructure and public places.' Council members have been urged to 'balance fostering innovation' while 'preventing the misuse of UAS.' But how can this be achieved in practice?
+
+In Africa, drones are being weaponised by terrorists for surveillance, intelligence and reconnaissance
+
+For a start, research is being done to understand how terrorists use drones. A joint UN Office of Counter-Terrorism, and Conflict Armament Research project is underway to assess global trends. The next steps will be to classify types of UAS (hobbyist, commercial, military, etc.) and establish a registration system so they can be tracked.
+
+The UN Office of Counter-Terrorism has developed a good practice guide on protecting vulnerable targets from drone attacks, knowing that commercial or hobbyist drones are being shaped into weapons. 3D printing technology also opens up the prospect of spare parts being rapidly manufactured by extremists.
+
+While countries such as South Africa may not consider themselves at risk of an imminent terrorist attack, industry insiders worry about economic terrorism - the destabilisation of essential utilities or other state services.
+
+Kim James, an executive member of the Commercial Unmanned Aircraft Association of Southern Africa, confirms that crime syndicates use 'narco drones' in South Africa for basic reconnaissance and to distribute drugs. A similar tactic is seen in Colombia to evade border security measures. The prospect of drones being used to target, for example, cash-in-transit vehicles is a possibility.
+
+Tighter regulations can provide early warning signs about the nefarious uses of drone technology
+
+While tighter regulations won't necessarily prevent the nefarious uses of drone technology, they can provide early warning signs. They could, for example, locate suspect drones or flag the delivery of bulk purchases of hobbyist drones close to potential targets. This was seen in Iraq and Syria in 2016 when large consignments of hobbyist drones were delivered to Turkey and then driven across the border.
+
+As Audrey Kurth Cronin observed in her book Power to the People: How Open Technological Innovation is Arming Tomorrow's Terrorists, 'the most common type of drone used by Islamic State was the DJI phantom, purchasable on Amazon.com for as little as 450 USD.' Export controls for such dual use technologies may also be an avenue for policymakers to consider.
+
+Close Sign up for free AllAfrica Newsletters Get the latest in African news delivered straight to your inbox Top Headlines Africa ICT By submitting above, you agree to our privacy policy. Success! Almost finished... We need to confirm your email address. To complete the process, please follow the instructions in the email we just sent you. Error! Error! There was a problem processing your submission. Please try again later.
+
+Regulations require enforcement. Given the broad applications of drones, it will need an approach in which government departments coordinate their responses. In South Africa, the Commercial Unmanned Aircraft Association of Southern Africa is drawing up proposals with the Department for Economic Development for a registration and accreditation process that protects the public but doesn't harm business.
+
+Technical fixes and alerts including how to identify potentially dangerous drones, are also being developed by the private sector with a focus on big installations such as mines, pipelines, prisons, airports etc. This raises questions of who is legally permitted to intercept a drone, and of state sovereignty and international law.
+
+This month's UN Security Council Counter-Terrorism Committee meeting will have to tread carefully so as not to hamper the legitimate use of drones which is transforming business, agriculture, humanitarian relief and medicine in Africa. At the same time, the continent presents a vulnerable environment where weaponised drones may be tested and used by militaries and insurgents alike.
+
+Karen Allen, Consultant, ISS Pretoria

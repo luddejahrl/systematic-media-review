@@ -1,0 +1,85 @@
+© Figma null
+
+Figma, the free web development tool, lets designers easily create wireframes and prototypes before development kicks off.
+
+The importance of good UI and UX can’t be understated. As user tastes become more refined, and competition in the digital space becomes more fierce, businesses can’t afford unintuitive, clunky, or inconsistent interfaces that don’t work the way users expect. It’s effectively the key to attracting new users - and retaining them for longer.
+
+Mockup tools like Figma - which was bought by Adobe in September 2022 - let you build realistic prototypes in a very simple fashion. In that sense, it’s like a blend of Photoshop and Canva for professional designers.
+
+But simplicity isn’t the tool's only draw. The browser-based product design tool is strongly focused on online collaboration - whatever device your team uses.
+
+Figma: Plans & pricing
+
+Free tool with fairly priced monthly and annual subscriptions
+
+Figma is a free interface design app with premium monthly and annual subscriptions for power users.
+
+The free version is limited, of course. Users can create three Figma files and three FigJam files. That’s not bad for casual users, very small teams, and freelance designers.
+
+There are two upgrades available for paid users.
+
+Professional adds unlimited files, audio conversations, and team libraries. Useful if you need to maintain consistent branding. Costs are $15 / £14 / $24 AUD per editor per month.
+
+For annual subscriptions, the prices drop to $12 / £11 / $19AUD per editor per month.
+
+Organization offers everything included in Professional, alongside org-wide libraries, analytics, centralized file management, and more.This is only available on an annual subscription, with costs broken down to $45 / £41 / $71 AUD per editor per month.
+
+Overall, Figma offers a mid-range price for the market. Sketch and Adobe XD are both fractionally lower in price; Axure RP is more expensive. Figma costs far less than UXPin, but that's a broader tool using interactive live code, so designers and developers work in sync. Penpot offers an open-source, free design and prototyping tool for creatives working to tighter budgets.
+
+Plans & pricing: 4/5
+
+Figma: Interface & experience
+
+Slick, modern interface that’s easy to navigate
+
+As you’d expect from a dedicated UI design app, Figma’s interface is intensely clean. When you first hit the home page, there’s a lot going on, to be fair. And if this is all new to you, the sheet number of options may initially threaten to overwhelm you.
+
+But, actually, despite plenty of options (which is no bad thing), it’s all nicely delivered on-screen. Everything feels like it’s where it should be. That makes it intuitive to navigate and easy to perform any required action. For a tool operating within a browser, it’s also incredibly responsive
+
+Ultimately, if you have any passing knowledge of graphic design software and apps, you should find Figma’s simple interface straightforward.
+
+Interface & experience: 5/5
+
+Figma: Design
+
+Powerful tools for consistent designs
+
+If you know how to position and resize shapes and lines, then you can use Figma. Basic design-work relies on dropping shapes, images, and text boxes onto a blank frame, then tweaking the properties to achieve the desired result.
+
+Don’t underestimate Figma, though. The prototyping tool is vastly more powerful than it first seems. You’ll find all major tools - from scaling tools and text to smart pen tools - housed at the top of the screen. And yes, keyboard shortcuts are fully supported to access these, for increased efficiency and better creative workflows. This even extends to its freehand pencil tool - by holding down Shift, you can make sure horizontal and vertical lines are absolutely perfect.
+
+Once you begin creating your wireframe or mockup, each component or element is added to the left-hand Layers pane. It’s here where Figma most closely mirrors Adobe’s top photo editor. In operation, however, you’ll find it similar to Sketch, the Mac-only design app. But by opting for the familiar layer-based system, it offers greater control over each element - and makes it much easier to adopt across the team.
+
+Easing the design process further, you’ll find templates for different devices under the Prototype tab to the right. Apple products dominate this section, with a multitude of iPhones, iPads, Macs, and Apple Watch options. But you’ll also find support for large and small Android screen sizes, Microsoft Surface Pro 8, and even TVs. It would be nice to see this list expanded even more, but overall, it’s a quick way to ensure your designs will meet the needs (and devices) of your users. Just to be sure, though, you can use Figma Mirror to view designs on Android and iOS. As with the main tool, mirrored prototypes will instantly update if changes are made to the design.
+
+Post-sign off, Figma lets you export to PNG, JPEG, SVG, and PDF. That’s not a huge variety, but they are accessible formats - and, again, it means everyone involved in the process can view the finished design.
+
+Design: 5/5
+
+Figma: Online collaboration
+
+Built for working together with your team
+
+Online collaboration is the feather in Figma’s cap. With hybrid and remote working now the norm, it’s a non-negotiable feature for most design teams. And Figma makes it easier to work together, from initial concepts to final hand-over.
+
+You can share designs fast - just hit the Share button - but the tool grants a good level of control over how (and what) you send to others. From there, users can write comments, leave feedback, and - on the Professional and Organization plans - even have audio conversations with colleagues for real-time collaboration.
+
+If you rely on collaborating online, FigJam will play a large role in this. The whiteboarding tool is designed for brainstorming ideas and organizing ideas. Like Figma, it’s deliciously simple to master. Better still, design files work in both tools, to help boost productivity and the creative process.
+
+Elsewhere, the team library ensures style guides and branding is maintained across projects. That helps teams build more consistent designs and maintain branding across the entire workflow - and, hopefully, fewer issues or back-and-forths once the product goes to the developers.
+
+There’s also support for free and paid-for stock design components, widgets, and plugins created by the wider Figma community. This gives the software even more utility (and certainly helps when those deadlines begin to loom).
+
+Online collaboration: 5/5
+
+Figma: Final verdict
+
+Figma delivers modern, intuitive UI and UX design that’s distinctly accessible to all. In fact, we can’t overstate how easy it is to use. It does everything designers need - and it does it with a powerful, advanced toolkit - whether you’re mocking up a new app or website, or any other graphic design assets. But its firm focus on online collaboration makes this a must-try for teams across an organization.
+
+Figma: Scorecard
+
+Plans & pricing Free, with monthly and annual subscription upgrades 4 Interface & experience Slick, modern, clean - and easy to use 5 Design Powerful tool enabling consistent, accurate designs 5 Online collaboration Strongly focused on online teamwork 5
+
+Should I buy?
+
+Buy it if…

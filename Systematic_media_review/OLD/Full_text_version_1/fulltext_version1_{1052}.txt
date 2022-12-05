@@ -1,0 +1,3 @@
+Country United States of America Region North America Sub-Unit 1 Dollar = 100 cents Symbol US$
+
+The U.S. dollar is the currency most used in international transactions. Several countries use the U.S. dollar as their official currency, and many others allow it to be used in a de facto capacity. It's known locally as a buck or greenback.
